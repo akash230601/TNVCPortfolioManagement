@@ -1,0 +1,157 @@
+industry_region_id,company_id,company,first_participation_year,application_category,sub_category,flight_room,final_industry,region
+1,1.0,Apotact,2015,Consumer Electronics,,IT,IT - Software,Austin
+2,2.0,BeehiveID,2015,IT/Security,,IT,IT - Software,Austin
+3,3.0,Brevitest Technologies,2015,Medical Devices ,,Life Science - Devices ,Healthcare - Device,Houston
+4,4.0,Cirasys,2015,Power Conversion/Supplies/Electronics,,Energy/Water,Energy/Cleantech,North Texas
+5,5.0,ECM Technologies,2015,Wound Care,,Life Science - Devices ,Healthcare - Device,Houston
+6,6.0,Guardian Sensors,2015,,,Life Science - Devices ,Healthcare - Device,Austin
+7,7.0,Luminostics,2015,"Diagnostics, Health",,Life Scicence - Other,Healthcare - Digital Health,Houston
+8,8.0,Noninvasix,2015,Medical Devices ,,Life Science - Devices ,Healthcare - Device,Houston
+9,9.0,Remind Trac (Remind Tech),2015,Health,,IT,IT - Digital Health,Houston
+10,10.0,Sano Chemicals,2015,Biotechnology  ,,Life Science - Other,Healthcare - Device,Bryan/College Station
+11,11.0,Scribesense,2015,Education/Data Management,,IT,IT - Software,Austin
+12,12.0,SemanticMD,2015,Health IT,,Life Science - Other,IT - Software,Houston
+13,,Silexta,2015,Clean Tech/Energy Storage,,Energy/Water,Energy/Cleantech,Austin
+14,14.0,TeVido,2015,Life Science,,Life Science - Other,Energy/Cleantech,Austin
+15,15.0,Thermal Expansion Solutions (Allvar),2015,Alloys for Electronics,,Energy/Water,Healthcare - Device,Bryan/College Station
+16,16.0,TxESI,2015,Biotechnology,,Life Science - Other,Healthcare - Device,Austin
+17,17.0,U-Solution,2015,Oil/Gas,,Energy/Water,Energy/Cleantech,Austin
+18,19.0,WaaveStream,2015,Water Filtration,,Energy/Water,Energy/Cleantech,Houston
+19,20.0,YouRoam,2015,Telecommunications/Mobile Apps,,IT,IT - Software,Austin
+20,18.0,Voyager Biomedical (Scepter Medical Devices),2015,Medicine,,Health,Healthcare - Device,"East Texas, Other"
+21,21.0,Acoustic Shield,2016,Acoustic Technology and Sensors ,,Other,"Agriculture, Sensors, Other",Bryan/College Station
+22,22.0,Astrapi,2016,Telecommunications,,IT,IT - Software,North Texas
+23,23.0,Cartofusion Technologies,2016,Geospatial Software Development ,,IT,IT - Software,South Texas
+24,24.0,Doc Response,2016,Healthcare ,,Health IT/Health,Healthcare - Digital Health,Houston
+25,25.0,ENTvantgage Diagnostics,2016,Medical Devices ,,Health,Healthcare - Device,Austin
+26,26.0,Knocki,2016,Smart Home/Internet of Things,,Other,IT - Hardware,Houston
+27,27.0,NarrativeDx,2016,Healthcare/Patient Experience,,Health IT/Health,Healthcare - Digital Health,Austin
+28,28.0,NuPark,2016,Parking,,IT,Transportation,Austin
+29,29.0,REEcycle,2016,Rare Earth Element Recycling,,Other,Energy/Cleantech,Houston
+30,30.0,Siva Therapeutics,2016,Device Cancer Therapy,,Health IT/Health,Healthcare - Device,Austin
+31,31.0,Stream Biomedical,2016,Biotech/Medtech,,Health IT/Health,Healthcare - Device,Houston
+32,32.0,Trifusion/Essentium,2016,Biomedical and 3d printed devices,,Health,Healthcare - Device,Bryan/College Station
+33,33.0,WT Industries,2016,Energy/Offshore,,Other,Energy/Cleantech,Houston
+34,34.0,Alleviant Medical,2017,Medical Devices ,,Health Device ,Healthcare - Device,Houston
+35,35.0,Claridge-Culp,2017,Air Conditioning,,alternate,IT - Software,Bryan/College Station
+36,36.0,Clear River Enviro,2017,Healthcare ,,IT/Other,Healthcare - Device,Houston
+37,37.0,Fortis Biosciences,2017,Therapeutics/Biotech,,Health  ,Healthcare - Rx/Therapeutics,Bryan/College Station
+38,38.0,GuidaBot,2017,Robotic Biomedical Devices ,,Health ,Healthcare - Device,Houston
+39,39.0,IntuiTap Medical,2017,Medical Devices ,,Health,Healthcare - Device,Houston
+40,40.0,Life Motion Technologies,2017,Medical Devices ,,alternate,Healthcare - Device,Byran/College Station
+41,41.0,Macromoltek,2017,Biotechnology Software,,Health,IT - Software,Austin
+42,42.0,NHC,2017,Medical Devices ,,Health,Healthcare - Device,Houston
+43,43.0,Prepflash,2017,Education/Artificial Intelligence,,IT/Other,IT - Software,Austin
+44,44.0,Quantum Industrial Development Corp,2017,Transportation,,Energy/Clean Tech,Transportation,San Antonio
+45,45.0,Resthetics,2017,Healthcare ,,Health,Healthcare - Device,Houston
+46,46.0,Rotex,2017,Healthcare ,,IT/Other,Healthcare - Digital Health,Austin
+47,47.0,Sensytec,2017,Structural Health Monitoring - Concrete,,IT/Other,IT - Software,Houston
+48,48.0,Shower Stream,2017,Internet of Things ,,Energy/Clean Tech,Energy/Cleantech,Austin
+49,49.0,Slipstream Wind,2017,Energy ,,alternate,Energy/Cleantech,"East Texas, Other"
+50,,Smarter Sorting,2017,Hazardous Waste Management/Data Platform ,,Energy/Clean Tech,Energy/Cleantech,Austin
+51,51.0,Stem Cell Security,2017,Biobanking,,Health,Healthcare - Device,Houston
+52,52.0,Thermascape Technologies,2017,Energy ,,Energy/Clean Tech,Energy/Cleantech,Bryan/College Station
+53,53.0,Admetsys,2018,Healthcare ,"(Devices, Rx, Therapeutics)",Devices,Healthcare - Device,Houston
+54,,Advanced Scanners,2018,Healthcare ,"(Devices, Rx, Therapeutics)",Therapeutics/Rx,Healthcare - Device,Austin
+55,55.0,Arovia,2018,IT/Software,(Non health related),IT/Digital Health ,IT - Hardware,Houston
+56,56.0,AtmoSpark,2018,Energy/Cleantech,,Energy/Clean Tech,Energy/Cleantech,Houston
+57,57.0,M&S Biotics,2018,Healthcare ,"(Devices, Rx, Therapeutics)",Therapeutics/Rx,Healthcare - Rx/Therapeutics,Houston
+58,58.0,Polar Panel,2018,Energy/Cleantech,,Energy/Clean Tech,Energy/Cleantech,Houston
+59,59.0,ResponderX,2018,IT/Software,(Non health related),IT/Digital Health ,IT - Hardware,Bryan/College Station
+60,60.0,RevaTis,2018,Healthcare ,"(Devices, Rx, Therapeutics)",alternate,Healthcare - Rx/Therapeutics,Bryan/College Station
+61,61.0,SABER Corportation,2018,Healthcare ,"(Devices, Rx, Therapeutics)",Devices,Healthcare - Device,Bryan/College Station
+62,62.0,Sunrise Health,2018,Digital Health,,IT/Digital Health ,IT - Software,Houston
+63,63.0,VastBiome,2018,Digital Health,,IT/Digital Health ,IT - Digital Health,Houston
+64,64.0,VenoStent,2018,Healthcare ,"(Devices, Rx, Therapeutics)",Devices,Healthcare - Device,Houston
+65,65.0,Verdegen,2018,Other: Mosquito Repellent,,Therapeutics/Rx,"Agriculture, Sensors, Other",Houston
+66,67.0,Xyber Technologies,2018,Energy/Cleantech,,Energy/Clean Tech,Energy/Cleantech,Austin
+67,68.0,Yotta Solar,2018,Energy/Cleantech,,Energy/Clean Tech,Energy/Cleantech,Austin
+68,66.0,Vitls,2018,Healthcare ,"(Devices, Rx, Therapeutics)",alternate,Healthcare - Digital Health,Houston
+69,69.0,Bezoar Laborartories,2019,Agriculture,,Energy/Clean Tech,"Agriculture, Sensors, Other",Bryan/College Station
+70,70.0,BioLum Sciences,2019,Healthcare ,"(Devices, Rx, Therapeutics)",alternate,Healthcare - Device,Houston
+71,71.0,Carbonwire,2019,Energy/Cleantech,,Energy/Clean Tech,Energy/Cleantech,Houston
+72,72.0,EM Device Lab,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Medical Device,Healthcare - Device,Austin
+73,73.0,GaitIQ,2019,Digital Health,,Transportation/IT,Healthcare - Digital Health,San Antonio
+74,74.0,Harmony Aeronautics,2019,Transportation,,Transportation/IT,Transportation,Bryan/College Station
+75,75.0,Health Note,2019,Digital Health,,alternate,Healthcare - Digital Health,Houston
+76,76.0,Ictero Medical,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Devices,Healthcare - Device,Houston
+77,77.0,Immosis,2019,IT/Software,(Non health related),Transportation/IT,IT - Software,North Texas
+78,78.0,Intelligent Implants,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Therapeutics/Rx,Healthcare - Rx/Therapeutics,Houston
+79,79.0,NovoThelium,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Rx/Therapeutics,Healthcare - Rx/Therapeutics,San Antonio
+80,80.0,PolyVascular,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Medical Device,Healthcare - Device,Houston
+81,81.0,Spark Biomedical,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Devices,Healthcare - Device,Houston
+82,82.0,Sun Co. Tracking,2019,Energy/Cleantech,,alternate,Energy/Cleantech,Houston
+83,83.0,SurfEllent,2019,Transportation,,Energy/Clean Tech,Transportation,Houston
+84,84.0,Teysha Technologies,2019,Energy/Cleantech,,Energy/Clean Tech,Energy/Cleantech,Austin
+85,85.0,Toggle Health,2019,Healthcare ,"(Devices, Rx, Therapeutics)",Transportation/IT,Healthcare - Digital Health,Austin
+86,86.0,Allosense,2020,Transportation,,alternate,Healthcare - Device,San Antonio
+87,87.0,Allotrope Medical,2020,Healthcare,Devices,Rx/Therapeutics,Healthcare - Device,Houston
+88,88.0,Articulate Labs,2020,Healthcare,Devices,Rx/Therapeutics,Healthcare - Rx/Therapeutics,North Texas
+89,89.0,Bondwell Technologies,2020,Healthcare,Therapeutics,Rx/Therapeutics,IT - Digital Health,Bryan/College Station
+90,90.0,Endpoint Security,2020,IT/Software,,IT/Sensors,Energy/Cleantech,Bryan/College Station
+91,91.0,Energy Bionics,2020,Energy,,Energy/Clean Tech,IT - Hardware,Bryan/College Station
+92,92.0,FastVisa.us,2020,IT/Software,,alternate,IT - Software,North Texas
+93,93.0,Feel the Color,2020,IT/Software,,alternate,IT - Hardware,North Texas
+94,94.0,HiPR Innovation,2020,Healthcare,Devices,alternate,Healthcare - Device,South Texas
+95,95.0,Intelligent Nanofiber,2020,Other: Potential applications in all categories minus software,,IT/Sensors,IT - Hardware,Bryan/College Station
+96,96.0,Katz Water Technologies,2020,Clean Tech,,Energy/Clean Tech,Energy/Cleantech,Houston
+97,97.0,Olifant Medical,2020,Healthcare,Devices,Medical Device,Healthcare - Device,San Antonio
+98,98.0,Rectify Inc.,2020,IT/Software,,alternate,IT - Software,Austin
+99,99.0,Solenic Medical,2020,Healthcare,Devices,Medical Device,Healthcare - Device,Bryan/College Station
+100,100.0,TexPower,2020,Energy,,Energy/Clean Tech,Energy/Cleantech,Austin
+101,101.0,Valhalla Healthcare,2020,Healthcare,Digital Health,alternate,Healthcare - Digital Health,Houston
+102,102.0,VeraDermics Incorporated,2020,Healthcare,Rx,alternate,Healthcare - Device,San Antonio
+103,103.0,Xebec,2020,Other: Hardware,,IT/Sensors,IT - Hardware,Austin
+104,,"Advanced Surgical Retractor Systems, Inc. d/b/a ASR Systems",2021,Devices,,,Healthare - Device,San Antonio
+105,,Code Walker L.L.C.,2021,IT/Software,,,IT - Software,Houston
+106,108.0,EmGenisys,2021,Ag/Lif Sci,,,"Agriculture, Sensors, Other",Houston
+107,110.0,HERO Medical Technologies,2021,Pediatric Device,,,Healthcare - Device,Austin
+108,,Icii Technologies LLC,2021,IT/Software,,,IT - Software,Bryan/College Station
+109,76.0,Ictero Medical,2021,Devices,,,Healthcare - Device,Houston
+110,,Industrom Power LLC,2021,IT/Software,,,IT - Software,Houston
+111,113.0,Koda Health,2021,Digital Health,,,Healthcare - Digital Health,Houston
+112,114.0,Max-IR Labs,2021,Clean Tech,,,Energy/Cleantech,North Texas
+113,,MicroSilicon Inc,2021,Energy,,,Energy/Cleantech,Houston
+114,,"RiverWalk Therapeutics, Inc.",2021,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,San Antonio
+115,,SKYPaws LLC,2021,Ag/Lif Sci,,,"Agriculture, Sensors, Other",Austin
+116,119.0,Starling Medical,2021,Pediatric Device,,,Healthcare - Device,Houston
+117,120.0,TEZCAT Laboratories,2021,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,Austin
+118,,"TYBR Health, Inc.",2021,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,Houston
+119,122.0,Vitanova Biomedical,2021,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,San Antonio
+120,,HelioWave Technologies LLC,2021,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,Bryan/College Station
+121,,"Solenic Medical, Inc.",2021,Pediatric Device,,,Healthcare - Device,Bryan/College Station
+122,118.0,SparkSigma,2021,Devices,,,Healthcare - Device,Bryan/College Station
+123,137.0,"Vaccine Systems, LLC",2021,Devices,,,Healthcare - Device,Austin
+124,107.0,DrillDocs Company,2021,Energy,,,Energy/Cleantech,Houston
+125,,Aerial Vehicle Automation (AVA Propulsion Inc.),2021,Transportation,,,Transportation,San Antonio
+126,123.0,"Alt-Bionics, Inc",2022,Medical Device,,,Healthcare - Device,San Antonio
+127,124.0,Alula Learning,2022,Information Technology,,,IT - Software,Bryan/College Station
+128,126.0,"Blue Sky Measurements, Inc",2022,Energy,,,Energy/Cleantech,Houston
+129,127.0,DeepCast.ai,2022,Information Technology,,,IT - Software,Houston
+130,128.0,Dynamic Light,2022,Digital Health,,,Healthcare - Digital Health,Austin
+131,129.0,Endpoint Security Inc,2022,Information Technology,,,IT - Hardware,Bryan/College Station
+132,130.0,FluxWorks,2022,Cleantech,,,Energy/Cleantech,Bryan/College Station
+133,147.0,Pike Robotics,2022,Energy,,,Energy/Cleantech,Austin
+134,133.0,Revolution Turbine Technologies,2022,Energy,,,Energy/Cleantech,Houston
+135,134.0,"SolGro, Inc.",2022,Agriculture,,,"Agriculture, Sensors, Other",North Texas (Including DFW)
+136,135.0,SUHO Biotechnology LLC,2022,Agriculture,,,"Agriculture, Sensors, Other",Bryan/College Station
+137,137.0,"Vaccine Systems, LLC",2022,Medical Device,,,Healthcare - Device,Austin
+138,138.0,XN Health Inc,2022,Medical Device,,,Healthcare - Device,Houston
+139,125.0,"Atlas Sensor Technologies, Inc.",2022,Agriculture,,,"Agriculture, Sensors, Other",West Texas
+140,,"Tremedics Medical Devices, INC",2022,Medical Device,,,Healthcare - Device,North Texas (Including DFW)
+141,131.0,Longhorn Life Sciences,2022,Medical Device,,,Healthcare - Device,Austin
+142,155.0,"Cellula BioPharma, Inc.",2023,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,Houston
+143,139.0,Corveus Medical,2023,Medical Device,,,Healthcare - Device,Houston
+144,,"CryoDesalination, LLC",2023,Clean Tech,,,Energy/Cleantech,Houston
+145,,"HPTechAi, LLC",2023,Transportation,,,Transportation,Bryan/College Station
+146,144.0,Luci,2023,IT/Software,,,IT - Software,North Texas
+147,,NeuroStasis Inc.,2023,Medical Device,,,Healthcare - Device,Houston
+148,146.0,"Opsin Biotherapeutics, Inc.",2023,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,Houston
+149,,PIRvision Lens,2023,Energy,,,Energy/Cleantech,Bryan/College Station
+150,150.0,"Prosia Therapeutics, Inc.",2023,Rx/Therapeutics,,,Healthcare - Rx/Therapeutics,Bryan/College Station
+151,151.0,"SageSpectra, Inc.",2023,Medical Device,,,Healthcare - Device,Houston
+152,152.0,Taurus Vascular,2023,Medical Device,,,Healthcare - Device,Houston
+153,,Waltech International,2023,IT/Software,,,IT - Software,Austin
+154,149.0,"Predyct, Inc.",2023,Energy,,,Energy/Cleantech,Houston
+155,156.0,"Circle Concrete Tech, Inc.",2023,Transportation,,,Transportation,Other
+156,142.0,Ember Sleep,2023,Medical Device,,,Healthcare - Device,Houston

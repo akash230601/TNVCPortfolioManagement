@@ -1,0 +1,61 @@
+sr_id,company_id,company_name,tamus_company,buss_w_tamus,value,source,added_by,date,comments
+1,22.0,Astrapi,1,1,0,Survey 2018,Neil,2018-12-31,
+2,5.0,ECM Technologies,1,1,87000,Survey 2018,Neil,2018-12-31,
+3,25.0,ENTvantgage Diagnostics,1,1,50000,Survey 2018,Neil,2018-12-31,
+4,8.0,Noninvasix,1,1,0,Survey 2018,Neil,2018-12-31,
+5,28.0,NuPark,1,1,1500000,Survey 2018,Neil,2018-12-31,
+6,61.0,SABER Corportation,1,1,74000,Survey 2018,Neil,2018-12-31,We added 1k on 1/12/2021
+7,10.0,Sano Chemicals,1,1,1380000,Survey 2018,Neil,2018-12-31,"~350,000 to date; Pending ~1,000,000; ~30,000"
+8,48.0,Shower Stream,1,1,20000,Survey 2018,Neil,2018-12-31,"~$20,000"
+9,49.0,Slipstream Wind,1,1,50000,Survey 2018,Neil,2018-12-31,
+10,31.0,Stream Biomedical,1,1,45000,Survey 2018,Neil,2018-12-31,
+11,15.0,Thermal Expansion Solutions (Allvar),1,1,241071,Survey 2018,Neil,2018-12-31,
+12,64.0,VenoStent,1,1,99309,Survey 2018,Neil,2018-12-31,
+13,18.0,Voyager Biomedical (Scepter Medical Devices),1,1,57660,Survey 2018,Neil,2018-12-31,
+14,68.0,Yotta Solar,1,1,50000,Survey 2018,Neil,2018-12-31,
+15,69.0,Bezoar Laborartories,1,1,54000,Survey 2019,Neil,2019-11-18,lic fee 2k
+16,35.0,Claridge-Culp,1,1,400000,Survey 2019,Neil,2019-11-18,$400K
+17,5.0,ECM Technologies,1,1,105000,Survey 2019,Neil,2019-11-18,~35000; ~35000;~15000;~20000
+18,73.0,GaitIQ,1,1,25000,Survey 2019,Neil,2019-11-18,confidential
+19,8.0,Noninvasix,1,1,500000,Survey 2019,Neil,2019-11-18,
+20,61.0,SABER Corportation,1,1,60000,Survey 2019,Neil,2019-11-18,
+21,10.0,Sano Chemicals,1,1,2368410,Survey 2019,Neil,2019-11-18,lic fee 160k
+22,83.0,SurfEllent,1,1,10000,Survey 2019,Neil,2019-11-18,
+23,14.0,TeVido,1,1,50000,Survey 2019,Neil,2019-11-18,
+24,63.0,VastBiome,1,1,165000,Survey 2019,Neil,2019-11-18,
+25,64.0,VenoStent,1,1,263480,Survey 2019,Neil,2019-11-18,
+26,84.0,Teysha Technologies,1,1,252902,Email from Lenae,Neil,2019-12-11,Lenae got it from Linda Ravey. Teysha only reported 100k in Survey 2019.
+27,37.0,Fortis Biosciences,1,1,0,Survey 2019,Neil,2020-01-21,
+28,39.0,IntuiTap Medical,1,1,100000,Survey 2019,Neil,2020-01-30,
+29,73.0,GaitIQ,1,1,900000,Survey 2020,"Clare, Neil",2021-01-12,We need to check with GaitIQ on research total
+30,55.0,Arovia,1,1,50000,Survey 2020,"Clare, Neil",2021-01-12,
+31,100.0,TexPower,1,1,285000,Survey 2020,"Clare, Neil",2021-01-12,lic fee 15k
+32,64.0,VenoStent,1,1,0,Survey 2020,"Clare, Neil",2021-01-12,
+33,99.0,Solenic Medical,1,1,295000,Survey 2020,"Clare, Neil",2021-01-12,lic fee 5k
+34,18.0,Voyager Biomedical (Scepter Medical Devices),1,1,93000,Survey 2020,"Clare, Neil",2021-01-12,
+35,22.0,Astrapi,1,1,126000,Survey 2020,"Clare, Neil",2021-01-12,
+36,79.0,NovoThelium,1,1,5000,Survey 2020,"Clare, Neil",2021-01-12,
+37,87.0,Allotrope Medical,1,1,5000,Survey 2020,"Clare, Neil",2021-01-12,lic fee 5k
+38,64.0,VenoStent,1,1,550000,Lenae,Neil,2021-02-04,"Lenae asked (email) Timothy Boire on Feb 1, 2021"
+39,108.0,EmGenisys,1,1,10000,TNVC 2021 App,Neil,2021-06-12,Clare reported this when were were creating the 2021 companies
+40,64.0,VenoStent,1,1,1000000,Survey 2021,Clare,2021-09-20,
+41,113.0,Koda Health,1,1,125000,Survey 2021,Clare,2021-09-20,
+42,73.0,GaitIQ,1,1,1006154,Survey 2021,Clare,2021-09-20,
+43,100.0,TexPower,1,1,300000,Survey 2021,Clare,2021-09-20,
+44,69.0,Bezoar Laborartories,1,1,230000,Survey 2021,Clare,2021-09-20,
+45,55.0,Arovia,1,1,200000,Survey 2021,Clare,2021-09-20,
+46,30.0,Siva Therapeutics,1,1,100000,Survey 2021,Clare,2021-09-20,
+47,81.0,Spark Biomedical,1,1,400000,Survy 2021,Clare,2021-09-20,
+48,35.0,Claridge-Culp,1,1,400000,Survey 2021,Clare,2021-09-20,
+49,83.0,SurfEllent,1,1,150000,Survey 2021,Clare,2021-09-20,
+50,108.0,EmGenisys,1,1,43000,Survey 2021,Clare,2021-09-20,
+51,36.0,Clear River Enviro,1,1,7125,Survey 2021,Clare,2021-09-20,
+52,108.0,EmGenisys,1,1,45500,TNVC 2022 App,Clare,2022-06-13,Additional $500 reported in 2022 app with TAMU BMEN and $2000 with TAMU Reproductive Services Lab
+53,108.0,EmGenisys,1,1,14000,TNVC 2022 App,Clare,2022-06-13,"14,000 reported with Texas Tech"
+54,147.0,Pike Robotics,0,1,329000,TNVC 2022 App,Clare,2022-06-13,from Philips 66 to UT Austin 
+55,,SolGro,0,1,200000,TNVC 2022 App,Clare,2022-06-13,Donald Danforth Plant Science Center
+56,121.0,TYBR Health,0,1,6000,TNVC 2022 App,Clare,2022-06-13,TAMU
+57,121.0,TYBR Health,0,1,75000,TNVC 2022 App,Clare,2022-06-13,University of Chicago
+58,,XN Health,0,1,90000,TNVC 2022 App,Clare,2022-06-13,"Texas Medical Center 70k, Texas Heart Institute 20k"
+59,,Atlas Sensor Technologies,0,1,18000,TNVC 2022 App,Clare,2022-06-13,University of Texas Systems - 2% lic fee on sales
+60,141.0,DrillDocs,0,1,2500,TNVC 2022 App,Clare,2022-06-13,University of Houston

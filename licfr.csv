@@ -1,0 +1,10 @@
+licfr_id,company_id,company,tamus_company,tees_company,research_institution,tees_res_institution,tamus_res_institution,tamus_tees_res_institution,aux_column,value,source,added_by,date,comments
+1,69,Bezoar Laborartories,1,1,TAMU,0,1,0,Bezoar Laborartories-X,2000.0,Survey 2019,Neil,2021-01-15,
+2,10,Sano Chemicals,1,1,Texas A&M University,0,0,0,Sano Chemicals-,30000.0,Survey 2019,Neil,2021-01-15,
+3,10,Sano Chemicals,1,1,Mississippi State Univ,0,0,0,Sano Chemicals-,30000.0,Survey 2019,Neil,2021-01-15,
+4,10,Sano Chemicals,1,1,University of Utah,0,0,0,Sano Chemicals-,100000.0,Survey 2019,Neil,2021-01-15,
+5,100,TexPower,0,0,University of Texas at Austin,0,0,0,TexPower-,15000.0,Survey 2020,Neil,2021-01-15,
+6,99,Solenic Medical,1,0,UT Southwestern,0,0,0,Solenic Medical-,5000.0,Survey 2020,Neil,2021-01-15,
+7,87,Allotrope Medical,0,0,Houston Methodist,0,0,0,Allotrope Medical-,5000.0,Survey 2020,Neil,2021-01-15,
+8,90,Endpoint Security,1,0,University of Notre Dame,0,0,0,Endpoint Security-,5000.0,TNVC2022 App,Clare,2022-06-13,
+9,125,"Atlas Sensor Technologies, Inc.",0,0,Unvieresity of Texas Systems,0,0,0,"Atlas Sensor Technologies, Inc.-",,TNVC2022 App,Clare,2022-06-13,

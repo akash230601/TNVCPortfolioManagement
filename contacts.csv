@@ -1,0 +1,211 @@
+contact_id,company_id,company,first_name,last_name,entry,comments,survey_2019,company_last_status,first_participation_year,multiple_year,best_result
+1,21.0,Acoustic Shield,Luke,Neese,5112-8282666,Founder passed away,,0.0,0.0,0.0,2016.0
+2,53.0,Admetsys,Jeff,Valk,media@admetsys.com,,1.0,2400000.0,0.0,0.0,2018.0
+3,53.0,Admetsys,Jeff,Valk,800-755-8895,,,2400000.0,0.0,0.0,2018.0
+4,,Advanced Scanners,Jeff,Levine,jeffl@advancedscanners.com,,1.0,175000.0,0.0,0.0,2018.0
+5,,Advanced Scanners,Jeff,Levine,512-750-6570,,,175000.0,0.0,0.0,2018.0
+6,34.0,Alleviant Medical,Avni,Patel,avni.patel@alleviantmedical.com,,1.0,1100000.0,0.0,0.0,2017.0
+7,34.0,Alleviant Medical,Avni,Patel,1 (281) 772-3330,,,1100000.0,0.0,0.0,2017.0
+8,34.0,Alleviant Medical,Avni,Patel,281-772-3330,,,1100000.0,0.0,0.0,2017.0
+9,1.0,Apotact,Mike,Pfister,mike@apotact.com,,,0.0,0.0,0.0,2015.0
+10,,Arovia ,Alex,Wesley,alex@arovia.com,,1.0,,,,
+11,,Arovia ,Justin,Mintzer,832-754-4416,,,,,,
+12,,Arovia ,Alex,Wesley,alex@arovia.com,Lenae provided,,,,,
+13,22.0,Astrapi,David,Shaw,dshaw@astrapi-corp.com,,1.0,2205000.0,0.0,0.0,2016.0
+14,56.0,AtmoSpark,Tejus,Mane,tmane@atmosparktech.com,,1.0,80000.0,0.0,0.0,2018.0
+15,56.0,AtmoSpark,Tejus,Mane,832-812-6308,,,80000.0,0.0,0.0,2018.0
+16,2.0,BeehiveID,Mary,Haskett,mary@beehiveid.com,,,0.0,0.0,0.0,2015.0
+17,69.0,Bezoar Laborartories,Ryan,Springer,bezoarlaboratories@gmail.com,No longer with Bezoar Labs,,105000.0,0.0,0.0,2019.0
+18,69.0,Bezoar Laborartories,Elizabeth,Latham,elizabethbones@gmail.com,Lenae found it,1.0,105000.0,0.0,0.0,2019.0
+19,70.0,BioLum Sciences,,,mequimbar@biolumsciences.com,From Qualtrics 2019 Participants,,530000.0,0.0,0.0,2019.0
+20,70.0,BioLum Sciences,Edward,Allegra,ecallegra@biolumsciences.com,,1.0,530000.0,0.0,0.0,2019.0
+21,3.0,Brevitest Technologies,Carrie,McAllister,713-341-1198,,,200000.0,0.0,0.0,2015.0
+22,3.0,Brevitest Technologies,Carrie,McAllister,carrie@fannininnovation.com,bounced email ,,200000.0,0.0,0.0,2015.0
+23,3.0,Brevitest Technologies,Michael ,Heffernan,michael@fannininnovation.com,,,,,,
+24,3.0,Brevitest Technologies,Michael ,Heffernan,713-341-1193,,,,,,
+25,71.0,Carbonwire,Andy,Chen,andychen.tamu@gmail.com,,1.0,0.0,0.0,0.0,2019.0
+26,23.0,Cartofusion Technologies,Rick,Smith,361-688-0240,,,120000.0,0.0,0.0,2016.0
+27,23.0,Cartofusion Technologies,Rick,Smith,,Feb 2018 email bounced: rick.smith@cartofusion.com,,120000.0,0.0,0.0,2016.0
+28,23.0,Cartofusion Technologies,Rick,Smith,rick.smith@cartofusiontech.com,,,120000.0,0.0,0.0,2016.0
+29,4.0,Cirasys,Paul,Nichols,469-235-2351,,,1000000.0,0.0,0.0,2015.0
+30,4.0,Cirasys,Paul,Nichols,paul.nichols@cirasys.com,,1.0,1000000.0,0.0,0.0,2015.0
+31,35.0,Claridge-Culp,Charles,Culp,1 (979) 820-0963,,,586264.0,0.0,0.0,2017.0
+32,35.0,Claridge-Culp,Charles,Culp,979-820-0963,,,586264.0,0.0,0.0,2017.0
+33,35.0,Claridge-Culp,Charles,Culp,cculp@tamu.edu,,1.0,586264.0,0.0,0.0,2017.0
+34,36.0,Clear River Enviro,Mark,Macdonell,1 (832) 584-9224,,,900000.0,0.0,0.0,2017.0
+35,36.0,Clear River Enviro,Mark,Macdonell,832-584-9224,,,900000.0,0.0,0.0,2017.0
+36,36.0,Clear River Enviro,Mark,Macdonell,mmacdonell@clearriverenviro.com,,1.0,900000.0,0.0,0.0,2017.0
+37,24.0,Doc Response,Nadia,Bharani,nadia@docresponse.com,VP of business developement,1.0,75000.0,0.0,0.0,2016.0
+38,24.0,Doc Response,Tarek,Fahl,512-736-6424,,,75000.0,0.0,0.0,2016.0
+39,24.0,Doc Response,Tarek,Fahl,TarekFahl@DocResponse.com,,1.0,75000.0,0.0,0.0,2016.0
+40,5.0,ECM Technologies,Brooke,Russell,281-229-0348,,,450000.0,0.0,0.0,2015.0
+41,5.0,ECM Technologies,Brooke,Russell,Brooke.Hageman.russell@gmail.com,,1.0,450000.0,0.0,0.0,2015.0
+42,72.0,EM Device Lab,Michael,Gorn,mgorn@emdevicelab.com,,1.0,425000.0,0.0,0.0,2019.0
+43,25.0,ENTvantgage Diagnostics,Zach,Hawkins,512-413-5747,Founder/CEO,,1450000.0,0.0,0.0,2016.0
+44,25.0,ENTvantgage Diagnostics,Joe,Skraba,Jskraba@entv-Dx.com,Bounced 2018 survey; 10/1/19 from website:  info@entvantagedx.com.  Lets update Joe's email servicer to entvantagedx.com,1.0,1450000.0,0.0,0.0,2016.0
+45,37.0,Fortis Biosciences,Robert,Alaniz,1 (206) 818-9450,,,5000.0,0.0,0.0,2017.0
+46,37.0,Fortis Biosciences,Robert,Alaniz,206-818-9450,,,5000.0,0.0,0.0,2017.0
+47,37.0,Fortis Biosciences,Robert,Alaniz,Fortis.Biosci.1@gmail.com,,1.0,5000.0,0.0,0.0,2017.0
+48,37.0,Fortis Biosciences,Robert,Alaniz,alaniz@medicine.tamhsc.edu,,1.0,5000.0,0.0,0.0,2017.0
+49,73.0,GaitIQ,Rick,Morris,rick@gaitiq.com,,1.0,459000.0,0.0,0.0,2019.0
+50,6.0,Guardian Sensors,Pulin,Wang,,,,0.0,0.0,0.0,2015.0
+51,38.0,GuidaBot,Michelle,Ho,michelleh@fannininnovation.com,11/2018: No longer with GuidaBot,,425000.0,0.0,0.0,2017.0
+52,38.0,GuidaBot,Michelle,Ho,1 (713) 579-0070,11/2018: No longer with GuidaBot,,425000.0,0.0,0.0,2017.0
+53,38.0,GuidaBot,Michael,Heffernan,michael@fannininnovation.com,11/2018: New contact for GuidaBot,,425000.0,0.0,0.0,2017.0
+54,74.0,Harmony Aeronautics,Carl,Runco,runc10@tamu.edu,,1.0,270000.0,0.0,0.0,2019.0
+55,75.0,Health Note,Joshua,Reischer,josh@healthnote.com,,1.0,150000.0,0.0,0.0,2019.0
+56,76.0,Ictero Medical,David,Waters,david.waters@icteromedical.com,,1.0,290000.0,0.0,0.0,2019.0
+57,76.0,Ictero Medical,Matthew,Nojoomi,matthew.nojoomi@icteromedical.com,From Qualtrics 2019 Participants,1.0,290000.0,0.0,0.0,2019.0
+58,77.0,Immosis,Brian,Hoang,brian@survivr.co,,1.0,33200.0,0.0,0.0,2019.0
+59,77.0,Immosis,,,marwan@immosis.com,From Qualtrics 2019 Participants,,33200.0,0.0,0.0,2019.0
+60,77.0,Immosis,Brian,Hoang,brian@immosis.com,From Qualtrics 2019 Participants,1.0,33200.0,0.0,0.0,2019.0
+61,78.0,Intelligent Implants,Juan,Pardo,juan@intelligentimplants.ie,,1.0,2098000.0,0.0,0.0,2019.0
+62,78.0,Intelligent Implants,Karen,,karen@intelligentimplants.ie,From Qualtrics 2019 Participants,1.0,2098000.0,0.0,0.0,2019.0
+63,39.0,IntuiTap Medical,Jessica,Traver,1 (626) 222-2202,,,300000.0,0.0,0.0,2017.0
+64,39.0,IntuiTap Medical,Jessica,Traver,626-222-2202,,,300000.0,0.0,0.0,2017.0
+65,39.0,IntuiTap Medical,Jessica,Traver,jtraver@intuitapmedical.com,,1.0,300000.0,0.0,0.0,2017.0
+66,39.0,IntuiTap Medical,Jessica,,info@intuitapmedical.com,,1.0,300000.0,0.0,0.0,2017.0
+67,26.0,Knocki,Ohad,,Ohad@knocki.com,no longer works here,,630000.0,0.0,0.0,2016.0
+68,26.0,Knocki,Alex,Mitchell,alex@knocki.com,,1.0,630000.0,0.0,0.0,2016.0
+69,26.0,Knocki,Jake,,jake@knocki.com,,1.0,630000.0,0.0,0.0,2016.0
+70,40.0,Life Motion Technologies,Michael,Young,1 (817) 313-3318,,,6565.0,0.0,0.0,2017.0
+71,40.0,Life Motion Technologies,Michael,Young,Michaely@lifemotiontech.com,bounced email,,6565.0,0.0,0.0,2017.0
+72,40.0,Life Motion Technologies,Michael,Young,michaelyoung.aero@gmail.com,,1.0,6565.0,0.0,0.0,2017.0
+73,7.0,Luminostics,Bala,Raja,832-931-3293,,,60000.0,0.0,0.0,2015.0
+74,7.0,Luminostics,Bala,Raja,bala@luminostics.com,,1.0,60000.0,0.0,0.0,2015.0
+75,57.0,M&S Biotics,Joshua,Mecca,570-504-4535,,,250000.0,0.0,0.0,2018.0
+76,57.0,M&S Biotics,Joshua,Mecca,joshua.mecca@msbiotics.com,,1.0,250000.0,0.0,0.0,2018.0
+77,41.0,Macromoltek,Monica,Berrondo,1 (801) 361-6880,,,950000.0,0.0,0.0,2017.0
+78,41.0,Macromoltek,Monica,Berrondo,801-361-6880,,,950000.0,0.0,0.0,2017.0
+79,41.0,Macromoltek,Monica,Berrondo,monica@macromoltek.com,,1.0,950000.0,0.0,0.0,2017.0
+80,27.0,NarrativeDx,Kyle,Robertson,512-924-2880,Founder and CEO,,1100000.0,0.0,0.0,2016.0
+81,27.0,NarrativeDx,Kyle,Robertson,kyle@narrativedx.com,Founder and CEO,1.0,1100000.0,0.0,0.0,2016.0
+82,42.0,NHC,Caroline,Negley,1 (713) 839-8600,,,180000.0,0.0,0.0,2017.0
+83,42.0,NHC,Caroline,Negley,713-839-8600,,,180000.0,0.0,0.0,2017.0
+84,42.0,NHC,Caroline,Negley,cnegley@otricath.com,,1.0,180000.0,0.0,0.0,2017.0
+85,8.0,Noninvasix,Graham,Randall,grandall@noninvasix.com,,1.0,1800000.0,0.0,0.0,2015.0
+86,79.0,NovoThelium,John,Smith,john@smith.com,,,301700.0,0.0,0.0,2019.0
+87,79.0,NovoThelium,Biana,Cerqueira,biancacerqueira@novothelium.com,From Qualtrics 2019 Participants,1.0,301700.0,0.0,0.0,2019.0
+88,79.0,NovoThelium,Laura,Cornell,laurencornell@novothelium.com,From Qualtrics 2019 Participants,1.0,301700.0,0.0,0.0,2019.0
+89,28.0,NuPark,Thomas,Fasullo,713-409-9258,,,1690000.0,0.0,0.0,2016.0
+90,28.0,NuPark,Kevin,Uhlenacker,kuhlenhaker@gmail.com,,,1690000.0,0.0,0.0,2016.0
+91,28.0,NuPark,Thomas,Fasullo,thomas.fasullo@nupark.com,From Qualtrics 2018 Survey,,1690000.0,0.0,0.0,2016.0
+92,,pmBlox (didn't participate - no show due to illness),J. Chris,White,214-335-9949,Founder,,,,,
+93,,pmBlox (didn't participate - no show due to illness),J. Chris,White,jcwhite@viasimsolutions.com,Founder,,,,,
+94,,Polar Panel ,Christian,Kladzyk,915-479-4284,,,,,,
+95,,Polar Panel ,Christian,Kladzyk,cmkladzyk@gmail.com,,1.0,,,,
+96,80.0,PolyVascular,Daniel,,info@polyvascular.com,,1.0,900000.0,0.0,0.0,2019.0
+97,80.0,PolyVascular,Kwonsoo,CHun,kwonsoo.chun@polyvascular.com,From Qualtrics 2019 Participants,1.0,900000.0,0.0,0.0,2019.0
+98,80.0,PolyVascular,,,henri.justino@polyvascular.com,From Qualtrics 2019 Participants,,900000.0,0.0,0.0,2019.0
+99,80.0,PolyVascular,Daniel,Harrington,daniel.harrington@polyvascular.com,From Qualtrics 2019 Participants,1.0,900000.0,0.0,0.0,2019.0
+100,43.0,Prepflash,Cy,Megnin,Cy@prepflash.com,,,150000.0,0.0,0.0,2017.0
+101,43.0,Prepflash,Cy,Megnin,cymegnin@hotmail.com,,,150000.0,0.0,0.0,2017.0
+102,43.0,Prepflash,Cy,Megnin,1 (512) 486-9104,,,150000.0,0.0,0.0,2017.0
+103,43.0,Prepflash,Cy,Megnin,512-486-9104,,,150000.0,0.0,0.0,2017.0
+104,44.0,Quantum Industrial Development Corp,Mac,McDowell,1 (361) 887-2901,,,500000.0,0.0,0.0,2017.0
+105,44.0,Quantum Industrial Development Corp,Mac,McDowell,361-887-2901,,,500000.0,0.0,0.0,2017.0
+106,44.0,Quantum Industrial Development Corp,Mac,McDowell,mac@quantumindustrialdevelopment.com,,1.0,500000.0,0.0,0.0,2017.0
+107,29.0,REEcycle,Casey,McNeil,832-339-1793,,,302000.0,0.0,0.0,2016.0
+108,29.0,REEcycle,Casey,McNeil,casey@reecycleinc.com,,1.0,302000.0,0.0,0.0,2016.0
+109,9.0,Remind Trac (Remind Tech),Nicole,Pardo,517-862-9114,,,250000.0,0.0,0.0,2015.0
+110,9.0,Remind Trac (Remind Tech),Nicole,Pardo,(888) 865-5098,,,250000.0,0.0,0.0,2015.0
+111,9.0,Remind Trac (Remind Tech),Nicole,Pardo,nicole@remind-technologies.com,Email may not work,1.0,250000.0,0.0,0.0,2015.0
+112,59.0,ResponderX,Cody,Blount,cody@responderx.com,,,25000.0,0.0,0.0,2018.0
+113,59.0,ResponderX,Cody,Blount,979-985-3451,,,25000.0,0.0,0.0,2018.0
+114,45.0,Resthetics,Antonio,Hung,1 (956) 536-0485,,,50000.0,0.0,0.0,2017.0
+115,45.0,Resthetics,Daniel,Weisfeld,daniel@resthetics.com,Bounced 2018 survey,,50000.0,0.0,0.0,2017.0
+116,45.0,Resthetics,Daniel,Weisfeld,(713) 303-0466,,,50000.0,0.0,0.0,2017.0
+117,45.0,Resthetics,Antonio,Hung,antonio@resthetics.com,,1.0,50000.0,0.0,0.0,2017.0
+118,60.0,RevaTis,Haley,White,979-820-2441,,,300000.0,0.0,0.0,2018.0
+119,60.0,RevaTis,Didier,Serteyn,didier.serteyn@revatis.com,,1.0,300000.0,0.0,0.0,2018.0
+120,46.0,Rotex,Pulin,Wang,1 (617) 792-5818,,,90000.0,0.0,0.0,2017.0
+121,46.0,Rotex,Pulin,Wang,617-792-5818,,,90000.0,0.0,0.0,2017.0
+122,46.0,Rotex,Pulin,Wang,pwang22@utexas.edu,,1.0,90000.0,0.0,0.0,2017.0
+123,46.0,Rotex,Pulin,Wang,pulin.wang@stretchmed.com,,1.0,90000.0,0.0,0.0,2017.0
+124,61.0,SABER Corportation,Kristen,Maitland,kmaitland@tamu.edu,,,15000.0,0.0,0.0,2018.0
+125,61.0,SABER Corportation,Kristen,Maitland,214-499-8535,,,15000.0,0.0,0.0,2018.0
+126,61.0,SABER Corportation,Alan,Glowczwski,dr.glow@sceptermedical.com,,1.0,15000.0,0.0,0.0,2018.0
+127,10.0,Sano Chemicals,James,Smith,855-384-7266,,,1000000.0,0.0,0.0,2015.0
+128,10.0,Sano Chemicals,James,Smith,james.smith@sanochemicals.com,,1.0,1000000.0,0.0,0.0,2015.0
+129,11.0,Scribesense,Paul,Abumov,paula@scribesense.com,,,,0.0,0.0,2015.0
+130,11.0,Scribesense,Paul,Abumov,512-539-0383,,,,0.0,0.0,2015.0
+131,11.0,Scribesense,,, paul.quaest@gmail.com,,,,0.0,0.0,2015.0
+132,12.0,SemanticMD,Santosh,Bhavani,281-685-0882,,,210000.0,0.0,0.0,2015.0
+133,12.0,SemanticMD,Santosh,Bhavani,santosh@semantic.md,,1.0,210000.0,0.0,0.0,2015.0
+134,47.0,Sensytec,Kevin,Cho,1 (832) 630-0811,,,25000.0,0.0,0.0,2017.0
+135,47.0,Sensytec,Kevin,Cho,832-630-0811,,,25000.0,0.0,0.0,2017.0
+136,47.0,Sensytec,Kevin,Cho,kevinbcho@yahoo.com,,1.0,25000.0,0.0,0.0,2017.0
+137,48.0,Shower Stream,Greg,Floyd,1 (713) 876-7726,,,5000.0,0.0,0.0,2017.0
+138,48.0,Shower Stream,Greg,Floyd,713-876-7726,,,5000.0,0.0,0.0,2017.0
+139,48.0,Shower Stream,Greg,Floyd,greg.floyd@showerstream.net,,1.0,5000.0,0.0,0.0,2017.0
+140,13.0,SIlexta,Dharmesh,Jawarani,dharmesh.jawarani@silexta.com,,,0.0,0.0,0.0,2015.0
+141,,Siva Therapeutics ,Len,Pagliaro,425-443-4344,,,,,,
+142,,Siva Therapeutics ,Len,Pagliaro,len.pagliaro@sivatherapeutics.com,,1.0,,,,
+143,49.0,Slipstream Wind,Taylor,Beaman,1 (254) 252-3005 x 101,,,500000.0,0.0,0.0,2017.0
+144,49.0,Slipstream Wind,Taylor,Beaman,taylor.beaman@slipstreamwind.com,,1.0,500000.0,0.0,0.0,2017.0
+145,49.0,Slipstream Wind,Taylor,Beaman,254-252-3005,,,500000.0,0.0,0.0,2017.0
+146,49.0,Slipstream Wind,Coy,Beaman,c.beaman@slipstreamwind.com,,1.0,500000.0,0.0,0.0,2017.0
+147,,Smarter Sorting,Charlie,Vallely,1 (617) 413-3241,,,1071750.0,0.0,0.0,2017.0
+148,,Smarter Sorting,Charlie,Vallely,(512) 593-2594,,,1071750.0,0.0,0.0,2017.0
+149,,Smarter Sorting,Charlie,Vallely,charlie@smartersorting.com,,1.0,1071750.0,0.0,0.0,2017.0
+150,81.0,Spark Biomedical,Daniel,Powell,daniel.powell@sparkbiomedical.com,,1.0,350000.0,0.0,0.0,2019.0
+151,,Stem cell Security,Kathryn,Peek,kpeek@texasheart.org,,,20000.0,0.0,0.0,2017.0
+152,,Stem cell Security,Kathryn,Peek,1 (832) 355-4208,,,20000.0,0.0,0.0,2017.0
+153,,Stem cell Security,,,dtaylor@texasheart.org,,,20000.0,0.0,0.0,2017.0
+154,,Stem cell Security,,,lsampaio@texasheart.org,,,20000.0,0.0,0.0,2017.0
+155,,Stem cell Security,Kathryn,Peek,(832) 355-4208,,,20000.0,0.0,0.0,2017.0
+156,31.0,Stream Biomedical,Gary,Gage,817-891-4337,,,600000.0,0.0,0.0,2016.0
+157,31.0,Stream Biomedical,Gary,Gage,gg@streambiomed.com,From Qualtrics 2018 Survey,,600000.0,0.0,0.0,2016.0
+158,31.0,Stream Biomedical,Gary,Gage,ggagemail@gmail.com,,1.0,600000.0,0.0,0.0,2016.0
+159,82.0,Sun Co. Tracking,Taylor,Zhao,taylorzhao@utexas.edu,,1.0,30000.0,0.0,0.0,2019.0
+160,62.0,Sunrise Health,Shrenik,Jain,shrenik@sunrisehealth.co,,,,0.0,0.0,2018.0
+161,62.0,Sunrise Health,Shrenik,Jain,908-255-9419,,,,0.0,0.0,2018.0
+162,62.0,Sunrise Health,,,hello@marigoldhealth.com,,,,0.0,0.0,2018.0
+163,83.0,SurfEllent,Hadi,Ghasemi,info@surfellent.com,,1.0,50000.0,0.0,0.0,2019.0
+164,14.0,TeVido,Laura,Bosworth, 512-828-2596,,,1200000.0,0.0,0.0,2015.0
+165,14.0,TeVido,Laura,Bosworth,512-828-2596,,,1200000.0,0.0,0.0,2015.0
+166,14.0,TeVido,Laura,Bosworth,bosworth@tevidobiodevices.com,,1.0,1200000.0,0.0,0.0,2015.0
+167,84.0,Teysha Technologies,Ashlee,Jahnke,ajahnke@teyshatech.co.uk,,1.0,380000.0,0.0,0.0,2019.0
+168,84.0,Teysha Technologies,,,dclark@teyshatech.co.uk,From Qualtrics 2019 Participants,,380000.0,0.0,0.0,2019.0
+169,84.0,Teysha Technologies,,,mstone@teyshatech.co.uk,From Qualtrics 2019 Participants,,380000.0,0.0,0.0,2019.0
+170,84.0,Teysha Technologies,Karen,Wooley,kwooley@teyshatech.co.uk,From Qualtrics 2019 Participants,1.0,380000.0,0.0,0.0,2019.0
+171,15.0,Thermal Expansion Solutions (Allvar),James,Monroe,jamesamonroe@allvaralloys.com,,1.0,0.0,0.0,0.0,2015.0
+172,52.0,Thermascape Technologies,Brandon,Dooley,1 (979) 574-1245,,,0.0,0.0,0.0,2017.0
+173,52.0,Thermascape Technologies,Brandon,Dooley,jbd@thermascape.com,,1.0,0.0,0.0,0.0,2017.0
+174,85.0,Toggle Health,Jake,Miller ,jake@togglehealth.com,,1.0,175000.0,0.0,0.0,2019.0
+175,32.0,Trifusion/Essentium,Charles,Sweeney,443-682-2479,,,52000.0,0.0,0.0,2016.0
+176,32.0,Trifusion/Essentium,Charles ,Sweeney,charles.b.sweeney@tamu.edu,I don't think this email is correct (lms) sales@essentium3d.com,,52000.0,0.0,0.0,2016.0
+177,32.0,Trifusion/Essentium,Blake,Teipel,9702278983,,,52000.0,0.0,0.0,2016.0
+178,32.0,Trifusion/Essentium,Shannon,Hazel,shannon.hazel@essentium3d.com,bounced email,,52000.0,0.0,0.0,2016.0
+179,32.0,Trifusion/Essentium,Blake,Teipel,Blake.Teipel@essentium3d.com,From Lenae,,52000.0,0.0,0.0,2016.0
+180,16.0,TxESI,Robert,Carpenter,512-971-4933,,,680000.0,0.0,0.0,2015.0
+181,16.0,TxESI,,,rcarpenter@austin.rr.com,,,680000.0,0.0,0.0,2015.0
+182,16.0,TxESI,,,rcarpenter@texasenterosorbents.com,,,680000.0,0.0,0.0,2015.0
+183,16.0,TxESI,,,rcarpenter@salientpharmaceuticals.com,,,680000.0,0.0,0.0,2015.0
+184,16.0,TxESI,Robert,Carpenter,rhcaggie@gmail.com,,1.0,680000.0,0.0,0.0,2015.0
+185,17.0,U-Solution,Chung,Lee,979-777-1865,,,50000.0,0.0,0.0,2015.0
+186,17.0,U-Solution,,,info@u-solutionllc.com,,,50000.0,0.0,0.0,2015.0
+187,17.0,U-Solution,Chung,Lee,chunglee814@gmail.com,,1.0,50000.0,0.0,0.0,2015.0
+188,63.0,VastBiome,Kareem,Barghouti,650-479-5539,,,350000.0,0.0,0.0,2018.0
+189,63.0,VastBiome,Kareem,Barghouti,kareem@vastbiome.com,,1.0,350000.0,0.0,0.0,2018.0
+190,64.0,VenoStent,Timothy,Boire,610-724-6023,,,412000.0,0.0,0.0,2018.0
+191,64.0,VenoStent,Timothy,Boire,tim.boire@venostent.com,,1.0,412000.0,0.0,0.0,2018.0
+192,64.0,VenoStent,Geoffrey,Lucks,geoffrey.lucks@venostent.com,From Qualtrics 2019 Participants,1.0,412000.0,0.0,0.0,2018.0
+193,65.0,Verdegen,Dean,Crockett,832-856-2413,,,460000.0,0.0,0.0,2018.0
+194,65.0,Verdegen,Dean,Crockett,info@verdegen.com,,1.0,460000.0,0.0,0.0,2018.0
+195,66.0,Vitls,Carrie,McAllister,,Feb 2018 email bounced: carrie@fannininnovation.com,,420000.0,0.0,0.0,2018.0
+196,66.0,Vitls,Werner,Vorster,werner@vitlsinc.com,,1.0,420000.0,0.0,0.0,2018.0
+197,18.0,Voyager Biomedical (Scepter Medical Devices),April,Lovelady,225-312-4464,,,100000.0,0.0,0.0,2015.0
+198,18.0,Voyager Biomedical (Scepter Medical Devices),April,Lovelady,april.lovelady@sceptermedical.com,,1.0,100000.0,0.0,0.0,2015.0
+199,18.0,Voyager Biomedical (Scepter Medical Devices),Alan,Glowczwski,dr.glow@sceptermedical.com,From Qualtrics 2019 Participants,1.0,100000.0,0.0,0.0,2015.0
+200,19.0,WaaveStream,Eric,Beydoun,ebeydoun@wavvestream.com,,,0.0,0.0,0.0,2015.0
+201,33.0,WT Industries,Doug,Trail,832-731-7098,,,0.0,0.0,0.0,2016.0
+202,33.0,WT Industries,Doug,Trail,dtrail@wt-ind.com,,1.0,0.0,0.0,0.0,2016.0
+203,67.0,Xyber Technologies,Mario,Facusse,800-498-8162,,,1400000.0,0.0,0.0,2018.0
+204,67.0,Xyber Technologies,Mario,Facusse,mario@xyber.tech,,1.0,1400000.0,0.0,0.0,2018.0
+205,68.0,Yotta Solar,Omeed,Badkoobeh,512-457-9081,,,572500.0,0.0,0.0,2018.0
+206,68.0,Yotta Solar,,,sepehr@yottasolar.com,From Qualtrics 2019 Participants,,572500.0,0.0,0.0,2018.0
+207,68.0,Yotta Solar,,,vikram@yottasolar.com,From Qualtrics 2019 Participants,,572500.0,0.0,0.0,2018.0
+208,68.0,Yotta Solar,,,Rushabh@yottasolar.com,From Qualtrics 2019 Participants,,572500.0,0.0,0.0,2018.0
+209,68.0,Yotta Solar,Omeed,Badkoobeh,omeed@yottasolar.com,,1.0,572500.0,0.0,0.0,2018.0
+210,20.0,YouRoam,Marcos,Cunha,hi@youroam.com,,,0.0,0.0,0.0,2015.0

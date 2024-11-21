@@ -1,0 +1,670 @@
+fund_id,company_id,company,type,aux_column,value,date_added,added_by,source,comments,verified
+1,53.0,Admetsys,total-nodetail,Admetsys-total-nodetail,2400000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+2,,Advanced Scanners,total-nodetail,Advanced Scanners-total-nodetail,175000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+3,34.0,Alleviant Medical,total-nodetail,Alleviant Medical-total-nodetail,1100000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,7/29/20 CMH
+4,55.0,Arovia,total-nodetail,Arovia-total-nodetail,825000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+5,22.0,Astrapi,total-nodetail,Astrapi-total-nodetail,2205000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+6,56.0,AtmoSpark,total-nodetail,AtmoSpark-total-nodetail,80000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+7,3.0,Brevitest Technologies,total-nodetail,Brevitest Technologies-total-nodetail,200000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+8,23.0,Cartofusion Technologies,total-nodetail,Cartofusion Technologies-total-nodetail,120000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Company with initial funds lower than current total,8/13/20 CMH
+9,4.0,Cirasys,total-nodetail,Cirasys-total-nodetail,1000000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Company with initial funds lower than current total,7/29/20 CMH
+10,35.0,Claridge-Culp,total-nodetail,Claridge-Culp-total-nodetail,586264.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Company with initial funds lower than current total,8/4/20 CMH
+11,36.0,Clear River Enviro,total-nodetail,Clear River Enviro-total-nodetail,900000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+12,24.0,Doc Response,total-nodetail,Doc Response-total-nodetail,75000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+13,5.0,ECM Technologies,total-nodetail,ECM Technologies-total-nodetail,450000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+14,25.0,ENTvantgage Diagnostics,total-nodetail,ENTvantgage Diagnostics-total-nodetail,1450000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+15,37.0,Fortis Biosciences,total-nodetail,Fortis Biosciences-total-nodetail,5000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,
+16,38.0,GuidaBot,total-nodetail,GuidaBot-total-nodetail,425000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,
+17,39.0,IntuiTap Medical,total-nodetail,IntuiTap Medical-total-nodetail,300000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,7/29/20 CMH
+18,26.0,Knocki,total-nodetail,Knocki-total-nodetail,630000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+19,40.0,Life Motion Technologies,total-nodetail,Life Motion Technologies-total-nodetail,6565.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Company with initial funds lower than current total,8/4/20 CMH
+20,7.0,Luminostics,total-nodetail,Luminostics-total-nodetail,60000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+21,57.0,M&S Biotics,total-nodetail,M&S Biotics-total-nodetail,250000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+22,41.0,Macromoltek,total-nodetail,Macromoltek-total-nodetail,950000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+23,27.0,NarrativeDx,total-nodetail,NarrativeDx-total-nodetail,1100000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+24,42.0,NHC,total-nodetail,NHC-total-nodetail,180000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Company with initial funds lower than current total,8/13/20 CMH
+25,8.0,Noninvasix,total-nodetail,Noninvasix-total-nodetail,1800000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+26,28.0,NuPark,total-nodetail,NuPark-total-nodetail,1690000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,
+27,58.0,Polar Panel,total-nodetail,Polar Panel-total-nodetail,2750.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,
+28,43.0,Prepflash,total-nodetail,Prepflash-total-nodetail,150000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Company with initial funds lower than current total,7/29/20 CMH
+29,44.0,Quantum Industrial Development Corp,total-nodetail,Quantum Industrial Development Corp-total-nodetail,500000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Company with initial funds lower than current total,8/4/20 CMH
+30,29.0,REEcycle,total-nodetail,REEcycle-total-nodetail,302000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/4/20 CMH
+31,9.0,Remind Trac (Remind Tech),total-nodetail,Remind Trac (Remind Tech)-total-nodetail,250000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/5/20 CMH
+32,59.0,ResponderX,total-nodetail,ResponderX-total-nodetail,25000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+33,45.0,Resthetics,total-nodetail,Resthetics-total-nodetail,50000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Company with initial funds lower than current total,8/13/20 CMH
+34,60.0,RevaTis,total-nodetail,RevaTis-total-nodetail,300000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,
+35,46.0,Rotex,total-nodetail,Rotex-total-nodetail,90000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,
+36,61.0,SABER Corportation,total-nodetail,SABER Corportation-total-nodetail,15000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+37,10.0,Sano Chemicals,total-nodetail,Sano Chemicals-total-nodetail,1000000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,
+38,11.0,Scribesense,total-nodetail,Scribesense-total-nodetail,125000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,
+39,12.0,SemanticMD,total-nodetail,SemanticMD-total-nodetail,210000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,7/29/20 CMH
+40,47.0,Sensytec,total-nodetail,Sensytec-total-nodetail,25000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,8/5/20 CMH
+41,48.0,Shower Stream,total-nodetail,Shower Stream-total-nodetail,5000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,8/5/20 CMH
+42,30.0,Siva Therapeutics,total-nodetail,Siva Therapeutics-total-nodetail,1100000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/5/20 CMH
+43,49.0,Slipstream Wind,total-nodetail,Slipstream Wind-total-nodetail,500000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,
+44,,Smarter Sorting,total-nodetail,Smarter Sorting-total-nodetail,1071750.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,
+45,,Stem cell Security,total-nodetail,Stem cell Security-total-nodetail,20000.0,2018-12-30,Neil,TNVC 2017 App,8/26/20: Companies with higher value than current.,7/29/20 CMH
+46,31.0,Stream Biomedical,total-nodetail,Stream Biomedical-total-nodetail,600000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/5/20 CMH
+47,62.0,Sunrise Health,total-nodetail,Sunrise Health-total-nodetail,250000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Company with initial funds lower than current total,8/5/20 CMH
+48,14.0,TeVido,total-nodetail,TeVido-total-nodetail,1200000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/5/20 CMH
+49,32.0,Trifusion/Essentium,total-nodetail,Trifusion/Essentium-total-nodetail,52000.0,2018-12-30,Neil,TNVC 2016 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+50,16.0,TxESI,total-nodetail,TxESI-total-nodetail,680000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Company with initial funds lower than current total,8/13/20 CMH
+51,17.0,U-Solution,total-nodetail,U-Solution-total-nodetail,50000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,
+52,63.0,VastBiome,total-nodetail,VastBiome-total-nodetail,350000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,
+53,64.0,VenoStent,total-nodetail,VenoStent-total-nodetail,412000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+54,65.0,Verdegen,total-nodetail,Verdegen-total-nodetail,460000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+55,66.0,Vitls,total-nodetail,Vitls-total-nodetail,420000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+56,18.0,Voyager Biomedical (Scepter Medical Devices),total-nodetail,Voyager Biomedical (Scepter Medical Devices)-total-nodetail,100000.0,2018-12-30,Neil,TNVC 2015 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+57,67.0,Xyber Technologies,total-nodetail,Xyber Technologies-total-nodetail,1400000.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+58,68.0,Yotta Solar,total-nodetail,Yotta Solar-total-nodetail,572500.0,2018-12-30,Neil,TNVC 2018 App,8/26/20: Companies with higher value than current.,8/13/20 CMH
+59,21.0,Acoustic Shield,dilutive,Acoustic Shield-dilutive,175000.0,2018-12-31,Neil,Survey 2018 or earlier,$3k from TNVC in 2016 - CMH,8/13/20 CMH
+60,21.0,Acoustic Shield,non-dilutive,Acoustic Shield-non-dilutive,100000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+61,53.0,Admetsys,total-nodetail,Admetsys-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+62,53.0,Admetsys,dilutive,Admetsys-dilutive,3500000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+63,53.0,Admetsys,non-dilutive,Admetsys-non-dilutive,200000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/5/20 CMH
+64,,Advanced Scanners,total-nodetail,Advanced Scanners-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/5/20 CMH
+65,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/5/20 CMH
+66,,Advanced Scanners,non-dilutive,Advanced Scanners-non-dilutive,235000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+67,34.0,Alleviant Medical,total-nodetail,Alleviant Medical-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+68,34.0,Alleviant Medical,dilutive,Alleviant Medical-dilutive,1200000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+69,34.0,Alleviant Medical,non-dilutive,Alleviant Medical-non-dilutive,300000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+70,55.0,Arovia,total-nodetail,Arovia-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+71,55.0,Arovia,dilutive,Arovia-dilutive,1175500.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+72,55.0,Arovia,non-dilutive,Arovia-non-dilutive,105700.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+73,22.0,Astrapi,total-nodetail,Astrapi-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+74,22.0,Astrapi,dilutive,Astrapi-dilutive,2200000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+75,22.0,Astrapi,non-dilutive,Astrapi-non-dilutive,974500.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+76,56.0,AtmoSpark,total-nodetail,AtmoSpark-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/5/20 CMH
+77,56.0,AtmoSpark,dilutive,AtmoSpark-dilutive,35000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/5/20 CMH
+78,56.0,AtmoSpark,non-dilutive,AtmoSpark-non-dilutive,50000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+79,3.0,Brevitest Technologies,total-nodetail,Brevitest Technologies-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+80,3.0,Brevitest Technologies,dilutive,Brevitest Technologies-dilutive,200000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+81,3.0,Brevitest Technologies,non-dilutive,Brevitest Technologies-non-dilutive,500000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+82,35.0,Claridge-Culp,dilutive,Claridge-Culp-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,No financials in Crunchbase,7/29/20 CMH
+83,35.0,Claridge-Culp,non-dilutive,Claridge-Culp-non-dilutive,700000.0,2018-12-31,Neil,Survey 2018 or earlier,No financials in Crunchbase,8/5/20 CMH
+84,36.0,Clear River Enviro,total-nodetail,Clear River Enviro-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/5/20 CMH
+85,36.0,Clear River Enviro,dilutive,Clear River Enviro-dilutive,2700000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/5/20 CMH
+86,36.0,Clear River Enviro,non-dilutive,Clear River Enviro-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+87,24.0,Doc Response,total-nodetail,Doc Response-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+88,24.0,Doc Response,dilutive,Doc Response-dilutive,500000.0,2018-12-31,Neil,Survey 2018 or earlier,No financials in Crunchbase,8/13/20 CMH
+89,24.0,Doc Response,non-dilutive,Doc Response-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+90,5.0,ECM Technologies,total-nodetail,ECM Technologies-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,7/29/20 CMH
+91,5.0,ECM Technologies,dilutive,ECM Technologies-dilutive,580000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/5/20 CMH
+92,5.0,ECM Technologies,non-dilutive,ECM Technologies-non-dilutive,205000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/5/20 CMH
+93,25.0,ENTvantgage Diagnostics,total-nodetail,ENTvantgage Diagnostics-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+94,25.0,ENTvantgage Diagnostics,non-dilutive,ENTvantgage Diagnostics-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,No number here?,7/29/20 CMH
+95,25.0,ENTvantgage Diagnostics,dilutive,ENTvantgage Diagnostics-dilutive,8000000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+96,37.0,Fortis Biosciences,total-nodetail,Fortis Biosciences-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+97,37.0,Fortis Biosciences,dilutive,Fortis Biosciences-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+98,37.0,Fortis Biosciences,non-dilutive,Fortis Biosciences-non-dilutive,20000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+99,38.0,GuidaBot,total-nodetail,GuidaBot-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+100,38.0,GuidaBot,dilutive,GuidaBot-dilutive,210000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+101,38.0,GuidaBot,non-dilutive,GuidaBot-non-dilutive,230000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+102,39.0,IntuiTap Medical,total-nodetail,IntuiTap Medical-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+103,39.0,IntuiTap Medical,dilutive,IntuiTap Medical-dilutive,3000000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+104,39.0,IntuiTap Medical,non-dilutive,IntuiTap Medical-non-dilutive,225000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+105,26.0,Knocki,total-nodetail,Knocki-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,
+106,26.0,Knocki,dilutive,Knocki-dilutive,3000000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+107,26.0,Knocki,non-dilutive,Knocki-non-dilutive,1500000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+108,7.0,Luminostics,total-nodetail,Luminostics-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,
+109,7.0,Luminostics,dilutive,Luminostics-dilutive,2200000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+110,7.0,Luminostics,non-dilutive,Luminostics-non-dilutive,250000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+111,57.0,M&S Biotics,total-nodetail,M&S Biotics-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,
+112,57.0,M&S Biotics,dilutive,M&S Biotics-dilutive,315000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+113,57.0,M&S Biotics,non-dilutive,M&S Biotics-non-dilutive,25000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+114,41.0,Macromoltek,total-nodetail,Macromoltek-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,
+115,41.0,Macromoltek,dilutive,Macromoltek-dilutive,2800000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+116,41.0,Macromoltek,non-dilutive,Macromoltek-non-dilutive,1200000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+117,27.0,NarrativeDx,total-nodetail,NarrativeDx-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+118,27.0,NarrativeDx,total-nodetail,NarrativeDx-total-nodetail,7500000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+119,8.0,Noninvasix,total-nodetail,Noninvasix-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+120,8.0,Noninvasix,dilutive,Noninvasix-dilutive,2500000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+121,8.0,Noninvasix,non-dilutive,Noninvasix-non-dilutive,750000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+122,28.0,NuPark,total-nodetail,NuPark-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+123,28.0,NuPark,dilutive,NuPark-dilutive,30000000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+124,28.0,NuPark,non-dilutive,NuPark-non-dilutive,55000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+125,58.0,Polar Panel,total-nodetail,Polar Panel-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+126,58.0,Polar Panel,dilutive,Polar Panel-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+127,58.0,Polar Panel,non-dilutive,Polar Panel-non-dilutive,45000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+128,43.0,Prepflash,dilutive,Prepflash-dilutive,100000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+129,43.0,Prepflash,non-dilutive,Prepflash-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+130,29.0,REEcycle,total-nodetail,REEcycle-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+131,29.0,REEcycle,dilutive,REEcycle-dilutive,,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+132,29.0,REEcycle,non-dilutive,REEcycle-non-dilutive,1300000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+133,9.0,Remind Trac (Remind Tech),total-nodetail,Remind Trac (Remind Tech)-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+134,9.0,Remind Trac (Remind Tech),total-nodetail,Remind Trac (Remind Tech)-total-nodetail,800000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+135,59.0,ResponderX,total-nodetail,ResponderX-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,
+136,59.0,ResponderX,dilutive,ResponderX-dilutive,250000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+137,59.0,ResponderX,non-dilutive,ResponderX-non-dilutive,10000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+138,60.0,RevaTis,total-nodetail,RevaTis-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+139,60.0,RevaTis,dilutive,RevaTis-dilutive,300000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/13/20 CMH
+140,60.0,RevaTis,non-dilutive,RevaTis-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+141,46.0,Rotex,total-nodetail,Rotex-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+142,46.0,Rotex,dilutive,Rotex-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/6/20 CMH
+143,46.0,Rotex,non-dilutive,Rotex-non-dilutive,100000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+144,61.0,SABER Corportation,total-nodetail,SABER Corportation-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+145,61.0,SABER Corportation,dilutive,SABER Corportation-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+146,61.0,SABER Corportation,non-dilutive,SABER Corportation-non-dilutive,305000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+147,10.0,Sano Chemicals,total-nodetail,Sano Chemicals-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+148,10.0,Sano Chemicals,dilutive,Sano Chemicals-dilutive,750000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+149,10.0,Sano Chemicals,non-dilutive,Sano Chemicals-non-dilutive,3850000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+150,11.0,Scribesense,total-nodetail,Scribesense-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+151,11.0,Scribesense,dilutive,Scribesense-dilutive,250000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+152,11.0,Scribesense,non-dilutive,Scribesense-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+153,12.0,SemanticMD,total-nodetail,SemanticMD-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+154,12.0,SemanticMD,dilutive,SemanticMD-dilutive,500000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+155,12.0,SemanticMD,non-dilutive,SemanticMD-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+156,47.0,Sensytec,total-nodetail,Sensytec-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+157,48.0,Shower Stream,total-nodetail,Shower Stream-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+158,48.0,Shower Stream,dilutive,Shower Stream-dilutive,285000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+159,48.0,Shower Stream,non-dilutive,Shower Stream-non-dilutive,225000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+160,30.0,Siva Therapeutics,total-nodetail,Siva Therapeutics-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+161,30.0,Siva Therapeutics,dilutive,Siva Therapeutics-dilutive,450000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+162,30.0,Siva Therapeutics,non-dilutive,Siva Therapeutics-non-dilutive,2000000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/28/20 CMH
+163,49.0,Slipstream Wind,total-nodetail,Slipstream Wind-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+164,49.0,Slipstream Wind,dilutive,Slipstream Wind-dilutive,500000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/6/20 CMH
+165,49.0,Slipstream Wind,non-dilutive,Slipstream Wind-non-dilutive,30000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+166,,Smarter Sorting,total-nodetail,Smarter Sorting-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+167,,Smarter Sorting,total-nodetail,Smarter Sorting-total-nodetail,9300000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+168,,Stem cell Security,total-nodetail,Stem cell Security-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+169,,Stem cell Security,dilutive,Stem cell Security-dilutive,100000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,7/28/20 CMH
+170,,Stem cell Security,non-dilutive,Stem cell Security-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+171,31.0,Stream Biomedical,total-nodetail,Stream Biomedical-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/6/20 CMH
+172,31.0,Stream Biomedical,dilutive,Stream Biomedical-dilutive,4100000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/6/20 CMH
+173,31.0,Stream Biomedical,non-dilutive,Stream Biomedical-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,7/28/20 CMH
+174,14.0,TeVido,total-nodetail,TeVido-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,7/28/20 CMH
+175,14.0,TeVido,dilutive,TeVido-dilutive,620000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+176,14.0,TeVido,non-dilutive,TeVido-non-dilutive,1500000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/6/20 CMH
+177,15.0,Thermal Expansion Solutions (Allvar),dilutive,Thermal Expansion Solutions (Allvar)-dilutive,310000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/7/20 CMH
+178,15.0,Thermal Expansion Solutions (Allvar),non-dilutive,Thermal Expansion Solutions (Allvar)-non-dilutive,1340000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+179,52.0,Thermascape Technologies,dilutive,Thermascape Technologies-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/7/20 CMH
+180,52.0,Thermascape Technologies,non-dilutive,Thermascape Technologies-non-dilutive,10000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/7/20 CMH
+181,32.0,Trifusion/Essentium,total-nodetail,Trifusion/Essentium-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/7/20 CMH
+182,32.0,Trifusion/Essentium,dilutive,Trifusion/Essentium-dilutive,22000000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+183,32.0,Trifusion/Essentium,non-dilutive,Trifusion/Essentium-non-dilutive,50000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+184,17.0,U-Solution,total-nodetail,U-Solution-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,7/29/20 CMH
+185,17.0,U-Solution,dilutive,U-Solution-dilutive,100000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/7/20 CMH
+186,17.0,U-Solution,non-dilutive,U-Solution-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/7/20 CMH
+187,63.0,VastBiome,total-nodetail,VastBiome-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/7/20 CMH
+188,63.0,VastBiome,dilutive,VastBiome-dilutive,100000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+189,63.0,VastBiome,non-dilutive,VastBiome-non-dilutive,65000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+190,64.0,VenoStent,total-nodetail,VenoStent-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,7/29/20 CMH
+191,64.0,VenoStent,dilutive,VenoStent-dilutive,215000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/7/20 CMH
+192,64.0,VenoStent,non-dilutive,VenoStent-non-dilutive,650000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/7/20 CMH
+193,65.0,Verdegen,total-nodetail,Verdegen-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+194,65.0,Verdegen,dilutive,Verdegen-dilutive,1500000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/13/20 CMH
+195,65.0,Verdegen,non-dilutive,Verdegen-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+196,66.0,Vitls,total-nodetail,Vitls-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,
+197,66.0,Vitls,dilutive,Vitls-dilutive,1400000.0,2018-12-31,Neil,Survey 2018 or earlier,,
+198,66.0,Vitls,non-dilutive,Vitls-non-dilutive,10000.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+199,18.0,Voyager Biomedical (Scepter Medical Devices),total-nodetail,Voyager Biomedical (Scepter Medical Devices)-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+200,18.0,Voyager Biomedical (Scepter Medical Devices),dilutive,Voyager Biomedical (Scepter Medical Devices)-dilutive,200000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+201,18.0,Voyager Biomedical (Scepter Medical Devices),non-dilutive,Voyager Biomedical (Scepter Medical Devices)-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,7/29/20 CMH
+202,33.0,WT Industries,dilutive,WT Industries-dilutive,21000.0,2018-12-31,Neil,Survey 2018 or earlier,no financials in Crunchbase,8/11/20 CMH
+203,33.0,WT Industries,non-dilutive,WT Industries-non-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/11/20 CMH
+204,67.0,Xyber Technologies,total-nodetail,Xyber Technologies-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/11/20 CMH
+205,67.0,Xyber Technologies,dilutive,Xyber Technologies-dilutive,0.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+206,67.0,Xyber Technologies,non-dilutive,Xyber Technologies-non-dilutive,25000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+207,68.0,Yotta Solar,total-nodetail,Yotta Solar-total-nodetail,0.0,2018-12-31,Neil,Survey 2018 or earlier,8/26/20: Companies with higher value than current.,8/13/20 CMH
+208,68.0,Yotta Solar,dilutive,Yotta Solar-dilutive,225000.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+209,68.0,Yotta Solar,non-dilutive,Yotta Solar-non-dilutive,313.0,2018-12-31,Neil,Survey 2018 or earlier,,8/13/20 CMH
+210,27.0,NarrativeDx,dilutive,NarrativeDx-dilutive,10500000.0,2019-02-21,Lenae,TMCx press release,LMS-TMCx press release,8/13/20 CMH
+211,27.0,NarrativeDx,non-dilutive,NarrativeDx-non-dilutive,0.0,2019-02-21,Lenae,TMCx press release,,8/13/20 CMH
+212,27.0,NarrativeDx,total-nodetail,NarrativeDx-total-nodetail,0.0,2019-02-21,Lenae,TMCx press release,,8/13/20 CMH
+213,,Smarter Sorting,dilutive,Smarter Sorting-dilutive,9300000.0,2019-02-21,Lenae,Crunchbase,Correction - Crunchbase Dilutive funding (LMS),8/13/20 CMH
+214,,Smarter Sorting,non-dilutive,Smarter Sorting-non-dilutive,0.0,2019-02-21,Lenae,Crunchbase,,
+215,,Smarter Sorting,total-nodetail,Smarter Sorting-total-nodetail,0.0,2019-02-21,Lenae,Crunchbase,,
+216,71.0,Carbonwire,non-dilutive,Carbonwire-non-dilutive,10000.0,2019-09-20,Neil,Dashboard,TNVC Prize,7/29/20 CMH
+217,23.0,Cartofusion Technologies,non-dilutive,Cartofusion Technologies-non-dilutive,5000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+218,23.0,Cartofusion Technologies,dilutive,Cartofusion Technologies-dilutive,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+219,36.0,Clear River Enviro,dilutive,Clear River Enviro-dilutive,2700000.0,2019-09-20,Neil,Dashboard,Same,8/11/20 CMH
+220,36.0,Clear River Enviro,non-dilutive,Clear River Enviro-non-dilutive,15000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+221,72.0,EM Device Lab,non-dilutive,EM Device Lab-non-dilutive,26000.0,2019-09-20,Neil,Dashboard,TNVC Prize,7/30/20 CMH
+222,73.0,GaitIQ,non-dilutive,GaitIQ-non-dilutive,60000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+223,6.0,Guardian Sensors,non-dilutive,Guardian Sensors-non-dilutive,10000.0,2019-09-20,Neil,Dashboard,TNVC Prizes,8/11/20 CMH
+224,6.0,Guardian Sensors,dilutive,Guardian Sensors-dilutive,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+225,6.0,Guardian Sensors,total-nodetail,Guardian Sensors-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,8/13/20 CMH
+226,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,25000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+227,76.0,Ictero Medical,non-dilutive,Ictero Medical-non-dilutive,20000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+228,77.0,Immosis,non-dilutive,Immosis-non-dilutive,2000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+229,78.0,Intelligent Implants,non-dilutive,Intelligent Implants-non-dilutive,25000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+230,42.0,NHC,non-dilutive,NHC-non-dilutive,35000.0,2019-09-20,Neil,Dashboard,TNVC Prize,7/30/20 CMH
+231,42.0,NHC,dilutive,NHC-dilutive,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+232,79.0,NovoThelium,non-dilutive,NovoThelium-non-dilutive,3000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+233,80.0,PolyVascular,dilutive,PolyVascular-dilutive,35000.0,2019-09-20,Neil,Dashboard,TNVC Prize,7/30/20 CMH
+234,80.0,PolyVascular,non-dilutive,PolyVascular-non-dilutive,15000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+235,59.0,ResponderX,dilutive,ResponderX-dilutive,250000.0,2019-09-20,Neil,Dashboard,Same,7/30/20 CMH
+236,59.0,ResponderX,non-dilutive,ResponderX-non-dilutive,15000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+237,45.0,Resthetics,dilutive,Resthetics-dilutive,25000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+238,45.0,Resthetics,non-dilutive,Resthetics-non-dilutive,22000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+239,45.0,Resthetics,total-nodetail,Resthetics-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,7/30/20 CMH
+240,11.0,Scribesense,dilutive,Scribesense-dilutive,250000.0,2019-09-20,Neil,Dashboard,Same,8/11/20 CMH
+241,11.0,Scribesense,non-dilutive,Scribesense-non-dilutive,30000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+242,11.0,Scribesense,total-nodetail,Scribesense-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,7/30/20 CMH
+243,47.0,Sensytec,non-dilutive,Sensytec-non-dilutive,3000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+244,47.0,Sensytec,dilutive,Sensytec-dilutive,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+245,47.0,Sensytec,total-nodetail,Sensytec-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+246,81.0,Spark Biomedical,dilutive,Spark Biomedical-dilutive,30000.0,2019-09-20,Neil,Dashboard,AAN - TNVC Prize ,8/13/20 CMH
+247,81.0,Spark Biomedical,non-dilutive,Spark Biomedical-non-dilutive,75000.0,2019-09-20,Neil,Dashboard,"TNVC Prize 50K, SWPDC 25K",8/13/20 CMH
+248,82.0,Sun Co. Tracking,non-dilutive,Sun Co. Tracking-non-dilutive,10000.0,2019-09-20,Neil,Dashboard,TNVC Prize,7/30/20 CMH
+249,83.0,SurfEllent,non-dilutive,SurfEllent-non-dilutive,35000.0,2019-09-20,Neil,Dashboard,TNVC Prize (35K cash and 10K in kind from TEEX),8/13/20 CMH
+250,84.0,Teysha Technologies,non-dilutive,Teysha Technologies-non-dilutive,25000.0,2019-09-20,Neil,Dashboard,TNVC Prize ,8/13/20 CMH
+251,52.0,Thermascape Technologies,dilutive,Thermascape Technologies-dilutive,0.0,2019-09-20,Neil,Dashboard,,8/13/20 CMH
+252,52.0,Thermascape Technologies,non-dilutive,Thermascape Technologies-non-dilutive,25000.0,2019-09-20,Neil,Dashboard,,7/30/20 CMH
+253,52.0,Thermascape Technologies,total-nodetail,Thermascape Technologies-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+254,85.0,Toggle Health,non-dilutive,Toggle Health-non-dilutive,10000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+255,18.0,Voyager Biomedical (Scepter Medical Devices),dilutive,Voyager Biomedical (Scepter Medical Devices)-dilutive,200000.0,2019-09-20,Neil,Dashboard,Same,8/11/20 CMH
+256,18.0,Voyager Biomedical (Scepter Medical Devices),non-dilutive,Voyager Biomedical (Scepter Medical Devices)-non-dilutive,25000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/13/20 CMH
+257,18.0,Voyager Biomedical (Scepter Medical Devices),total-nodetail,Voyager Biomedical (Scepter Medical Devices)-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,7/30/20 CMH
+258,68.0,Yotta Solar,dilutive,Yotta Solar-dilutive,225000.0,2019-09-20,Neil,Dashboard,Same,8/11/20 CMH
+259,68.0,Yotta Solar,non-dilutive,Yotta Solar-non-dilutive,13000.0,2019-09-20,Neil,Dashboard,TNVC Prize,8/11/20 CMH
+260,68.0,Yotta Solar,total-nodetail,Yotta Solar-total-nodetail,0.0,2019-09-20,Neil,Dashboard,,8/11/20 CMH
+261,68.0,Yotta Solar,non-dilutive,Yotta Solar-non-dilutive,313000.0,2019-09-30,Madeline,Crunchbase,9/30 (300k grant),7/30/20 CMH
+262,48.0,Shower Stream,dilutive,Shower Stream-dilutive,865000.0,2019-09-30,Madeline,Crunchbase,9/30 (585k seed round) I am seeing 580K from 07/19,8/11/20 CMH
+263,,Smarter Sorting,dilutive,Smarter Sorting-dilutive,31600000.0,2019-09-30,Madeline,Crunchbase,"9/30 (17M funding round, plus error corrections in CB )",8/11/20 CMH
+264,14.0,TeVido,dilutive,TeVido-dilutive,1421000.0,2019-09-30,Madeline,Crunchbase,"1/19 unknown series, includes prior dilutive after discussion",8/11/20 CMH
+265,68.0,Yotta Solar,dilutive,Yotta Solar-dilutive,1725000.0,2019-09-30,Madeline,Crunchbase,9/30 (1.5 mil seed round),8/13/20 CMH
+266,69.0,Bezoar Laborartories,total-nodetail,Bezoar Laborartories-total-nodetail,105000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/13/20 CMH
+267,70.0,BioLum Sciences,total-nodetail,BioLum Sciences-total-nodetail,530000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,
+268,71.0,Carbonwire,total-nodetail,Carbonwire-total-nodetail,0.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,
+269,72.0,EM Device Lab,total-nodetail,EM Device Lab-total-nodetail,425000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/3/20 CMH
+270,73.0,GaitIQ,total-nodetail,GaitIQ-total-nodetail,459000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/11/20 CMH
+271,74.0,Harmony Aeronautics,total-nodetail,Harmony Aeronautics-total-nodetail,270000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/11/20 CMH
+272,75.0,Health Note,total-nodetail,Health Note-total-nodetail,150000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/12/20 CMH
+273,76.0,Ictero Medical,total-nodetail,Ictero Medical-total-nodetail,290000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/13/20 CMH
+274,77.0,Immosis,total-nodetail,Immosis-total-nodetail,33200.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/13/20 CMH
+275,78.0,Intelligent Implants,total-nodetail,Intelligent Implants-total-nodetail,2098000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/3/20 CMH
+276,79.0,NovoThelium,total-nodetail,NovoThelium-total-nodetail,301700.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/12/20 CMH
+277,80.0,PolyVascular,total-nodetail,PolyVascular-total-nodetail,900000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/12/20 CMH
+278,81.0,Spark Biomedical,total-nodetail,Spark Biomedical-total-nodetail,350000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/12/20 CMH
+279,82.0,Sun Co. Tracking,total-nodetail,Sun Co. Tracking-total-nodetail,30000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/13/20 CMH
+280,83.0,SurfEllent,total-nodetail,SurfEllent-total-nodetail,50000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/13/20 CMH
+281,84.0,Teysha Technologies,total-nodetail,Teysha Technologies-total-nodetail,380000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/13/20 CMH
+282,85.0,Toggle Health,total-nodetail,Toggle Health-total-nodetail,175000.0,2019-10-01,Neil,TNVC 2019 App,The initial funds shall be reported here as well,8/3/20 CMH
+283,53.0,Admetsys,dilutive,Admetsys-dilutive,3500000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+284,53.0,Admetsys,non-dilutive,Admetsys-non-dilutive,250000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+285,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,1540006.0,2019-11-18,Neil,Survey 2019,"Where did the $40,006 come from?",8/12/20 CMH
+286,,Advanced Scanners,non-dilutive,Advanced Scanners-non-dilutive,235000.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+287,55.0,Arovia,dilutive,Arovia-dilutive,1500000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+288,55.0,Arovia,non-dilutive,Arovia-non-dilutive,200000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+289,56.0,AtmoSpark,dilutive,AtmoSpark-dilutive,25000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+290,56.0,AtmoSpark,non-dilutive,AtmoSpark-non-dilutive,60000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+291,69.0,Bezoar Laborartories,dilutive,Bezoar Laborartories-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+292,69.0,Bezoar Laborartories,non-dilutive,Bezoar Laborartories-non-dilutive,300000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+293,71.0,Carbonwire,dilutive,Carbonwire-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+294,71.0,Carbonwire,non-dilutive,Carbonwire-non-dilutive,5000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+295,35.0,Claridge-Culp,dilutive,Claridge-Culp-dilutive,0.0,2019-11-18,Neil,Survey 2019,No financials in Crunchbase,8/12/20 CMH
+296,35.0,Claridge-Culp,non-dilutive,Claridge-Culp-non-dilutive,400000.0,2019-11-18,Neil,Survey 2019,No financials in Crunchbase,8/12/20 CMH
+297,5.0,ECM Technologies,dilutive,ECM Technologies-dilutive,750000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+298,5.0,ECM Technologies,non-dilutive,ECM Technologies-non-dilutive,250000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+299,72.0,EM Device Lab,dilutive,EM Device Lab-dilutive,435000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+300,72.0,EM Device Lab,non-dilutive,EM Device Lab-non-dilutive,100000.0,2019-11-18,Neil,Survey 2019,,
+301,25.0,ENTvantgage Diagnostics,dilutive,ENTvantgage Diagnostics-dilutive,9000000.0,2019-11-18,Neil,Survey 2019,,
+302,25.0,ENTvantgage Diagnostics,non-dilutive,ENTvantgage Diagnostics-non-dilutive,50000.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+303,73.0,GaitIQ,dilutive,GaitIQ-dilutive,,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+304,73.0,GaitIQ,non-dilutive,GaitIQ-non-dilutive,459000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+305,75.0,Health Note,dilutive,Health Note-dilutive,1100000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+306,75.0,Health Note,non-dilutive,Health Note-non-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+307,8.0,Noninvasix,dilutive,Noninvasix-dilutive,3064746.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+308,8.0,Noninvasix,non-dilutive,Noninvasix-non-dilutive,843939.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+309,79.0,NovoThelium,dilutive,NovoThelium-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+310,79.0,NovoThelium,non-dilutive,NovoThelium-non-dilutive,305700.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+311,60.0,RevaTis,dilutive,RevaTis-dilutive,450000.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+312,61.0,SABER Corportation,dilutive,SABER Corportation-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+313,61.0,SABER Corportation,non-dilutive,SABER Corportation-non-dilutive,239000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+314,10.0,Sano Chemicals,dilutive,Sano Chemicals-dilutive,750000.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+315,10.0,Sano Chemicals,non-dilutive,Sano Chemicals-non-dilutive,4511122.0,2019-11-18,Neil,Survey 2019,,8/12/20 CMH
+316,48.0,Shower Stream,dilutive,Shower Stream-dilutive,1000000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+317,48.0,Shower Stream,non-dilutive,Shower Stream-non-dilutive,1500000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+318,30.0,Siva Therapeutics,dilutive,Siva Therapeutics-dilutive,400000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+319,30.0,Siva Therapeutics,non-dilutive,Siva Therapeutics-non-dilutive,2100000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+320,49.0,Slipstream Wind,dilutive,Slipstream Wind-dilutive,820000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+321,49.0,Slipstream Wind,non-dilutive,Slipstream Wind-non-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+322,81.0,Spark Biomedical,dilutive,Spark Biomedical-dilutive,3975000.0,2019-11-18,Neil,Survey 2019,,
+323,81.0,Spark Biomedical,non-dilutive,Spark Biomedical-non-dilutive,300000.0,2019-11-18,Neil,Survey 2019,,
+324,82.0,Sun Co. Tracking,non-dilutive,Sun Co. Tracking-non-dilutive,25000.0,2019-11-18,Neil,Survey 2019,no financials in Crunchbase,8/13/20 CMH
+325,82.0,Sun Co. Tracking,dilutive,Sun Co. Tracking-dilutive,0.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+326,83.0,SurfEllent,dilutive,SurfEllent-dilutive,350000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+327,83.0,SurfEllent,non-dilutive,SurfEllent-non-dilutive,200000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+328,14.0,TeVido,dilutive,TeVido-dilutive,1600000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+329,14.0,TeVido,non-dilutive,TeVido-non-dilutive,1500000.0,2019-11-18,Neil,Survey 2019,,
+330,85.0,Toggle Health,non-dilutive,Toggle Health-non-dilutive,114000.0,2019-11-18,Neil,Survey 2019,no financials in Crunchbase,
+331,85.0,Toggle Health,dilutive,Toggle Health-dilutive,100000.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+332,63.0,VastBiome,dilutive,VastBiome-dilutive,700000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+333,63.0,VastBiome,non-dilutive,VastBiome-non-dilutive,67000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+334,64.0,VenoStent,dilutive,VenoStent-dilutive,515000.0,2019-11-18,Neil,Survey 2019,,8/13/20 CMH
+335,64.0,VenoStent,non-dilutive,VenoStent-non-dilutive,1400000.0,2019-11-18,Neil,Survey 2019,,8/3/20 CMH
+336,36.0,Clear River Enviro,dilutive,Clear River Enviro-dilutive,3800000.0,2020-01-21,Neil,Survey 2019,,8/13/20 CMH
+337,36.0,Clear River Enviro,non-dilutive,Clear River Enviro-non-dilutive,15000.0,2020-01-21,Neil,Survey 2019,,8/13/20 CMH
+338,37.0,Fortis Biosciences,dilutive,Fortis Biosciences-dilutive,10000.0,2020-01-21,Neil,Survey 2019,,8/13/20 CMH
+339,37.0,Fortis Biosciences,non-dilutive,Fortis Biosciences-non-dilutive,10000.0,2020-01-21,Neil,Survey 2019,,8/13/20 CMH
+340,37.0,Fortis Biosciences,total-nodetail,Fortis Biosciences-total-nodetail,0.0,2020-01-21,Neil,Survey 2019,,8/13/20 CMH
+341,84.0,Teysha Technologies,non-dilutive,Teysha Technologies-non-dilutive,25000.0,2020-01-21,Neil,Survey 2019,Only reported 15k but they won 25k on TNVC.,8/13/20 CMH
+342,84.0,Teysha Technologies,dilutive,Teysha Technologies-dilutive,1500000.0,2020-01-21,Neil,Survey 2019,,8/13/20 CMH
+343,84.0,Teysha Technologies,total-nodetail,Teysha Technologies-total-nodetail,0.0,2020-01-21,Neil,Survey 2019,,8/3/20 CMH
+344,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,700000.0,2020-01-30,Neil,Survey 2019,,8/13/20 CMH
+345,76.0,Ictero Medical,non-dilutive,Ictero Medical-non-dilutive,225000.0,2020-01-30,Neil,Survey 2019,,8/13/20 CMH
+346,76.0,Ictero Medical,total-nodetail,Ictero Medical-total-nodetail,0.0,2020-01-30,Neil,Survey 2019,,8/13/20 CMH
+347,39.0,IntuiTap Medical,dilutive,IntuiTap Medical-dilutive,6300000.0,2020-01-30,Neil,Survey 2019,,8/13/20 CMH
+348,39.0,IntuiTap Medical,non-dilutive,IntuiTap Medical-non-dilutive,300000.0,2020-01-30,Neil,Survey 2019,,8/3/20 CMH
+349,86.0,Allosense,total-nodetail,Allosense-total-nodetail,200000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+350,87.0,Allotrope Medical,total-nodetail,Allotrope Medical-total-nodetail,1950000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+351,88.0,Articulate Labs,total-nodetail,Articulate Labs-total-nodetail,535000.0,2020-06-10,Clare,TNVC 2020 App,Crunchbase says $545 from seed round - decision made to use application amount,8/13/20 CMH
+352,69.0,Bezoar Laborartories,total-nodetail,Bezoar Laborartories-total-nodetail,325000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+353,89.0,Bondwell Technologies,total-nodetail,Bondwell Technologies-total-nodetail,1800000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+354,72.0,EM Device Lab,total-nodetail,EM Device Lab-total-nodetail,600000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+355,90.0,Endpoint Security,dilutive,Endpoint Security-dilutive,50000.0,2020-06-10,Clare,TNVC 2020 App,Confirmed dilutive,8/13/20 CMH
+356,91.0,Energy Bionics,total-nodetail,Energy Bionics-total-nodetail,294000.0,2020-06-10,Clare,TNVC 2020 App,,
+357,92.0,FastVisa.us,total-nodetail,FastVisa.us-total-nodetail,600000.0,2020-06-10,Clare,TNVC 2020 App,No financials in Crunchbase,
+358,93.0,Feel the Color,total-nodetail,Feel the Color-total-nodetail,25000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+359,94.0,HiPR Innovation,total-nodetail,HiPR Innovation-total-nodetail,19500.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+360,95.0,Intelligent Nanofiber,total-nodetail,Intelligent Nanofiber-total-nodetail,550000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+361,96.0,Katz Water Technologies,total-nodetail,Katz Water Technologies-total-nodetail,700000.0,2020-06-10,Clare,TNVC 2020 App,no financials in Crunchbase,8/13/20 CMH
+362,79.0,NovoThelium,total-nodetail,NovoThelium-total-nodetail,330700.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+363,97.0,Olifant Medical,total-nodetail,Olifant Medical-total-nodetail,301500.0,2020-06-10,Clare,TNVC 2020 App,no financials in Crunchbase,8/13/20 CMH
+364,80.0,PolyVascular,total-nodetail,PolyVascular-total-nodetail,0.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+365,98.0,Rectify Inc.,total-nodetail,Rectify Inc.-total-nodetail,260000.0,2020-06-10,Clare,TNVC 2020 App,no financials is Crunchbase,8/13/20 CMH
+366,47.0,Sensytec,total-nodetail,Sensytec-total-nodetail,250000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+367,99.0,Solenic Medical,dilutive,Solenic Medical-dilutive,250000.0,2020-06-10,Clare,TNVC 2020 App,no financials in Crunchbase,8/13/20 CMH
+368,100.0,TexPower,total-nodetail,TexPower-total-nodetail,335000.0,2020-06-10,Clare,TNVC 2020 App,no financials in Crunchbase,8/13/20 CMH
+369,101.0,Valhalla Healthcare,total-nodetail,Valhalla Healthcare-total-nodetail,0.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+370,102.0,VeraDermics Incorporated,total-nodetail,VeraDermics Incorporated-total-nodetail,30000.0,2020-06-10,Clare,TNVC 2020 App,,8/13/20 CMH
+371,103.0,Xebec,total-nodetail,Xebec-total-nodetail,90000.0,2020-06-10,Clare,TNVC 2020 App,no financials in Crunchbase,8/13/20 CMH
+372,34.0,Alleviant Medical,dilutive,Alleviant Medical-dilutive,7700000.0,2020-07-29,Clare,Crunchbase,"Venture Round in May 2020 (6,5M) ",8/13/20 CMH
+373,86.0,Allosense,non-dilutive,Allosense-non-dilutive,3000.0,2020-07-29,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+374,87.0,Allotrope Medical,non-dilutive,Allotrope Medical-non-dilutive,50000.0,2020-07-29,Clare,Crunchbase,TNVC 2020 Winnings,8/3/20 CMH
+375,69.0,Bezoar Laborartories,non-dilutive,Bezoar Laborartories-non-dilutive,315000.0,2020-07-30,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+376,69.0,Bezoar Laborartories,total-nodetail,Bezoar Laborartories-total-nodetail,25000.0,2020-07-30,Clare,TNVC 2020 App,,8/13/20 CMH
+377,89.0,Bondwell Technologies,non-dilutive,Bondwell Technologies-non-dilutive,10000.0,2020-07-30,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+378,93.0,Feel the Color,non-dilutive,Feel the Color-non-dilutive,2000.0,2020-08-05,Clare,Crunchbase,TNVC 2020 Winnings,8/3/20 CMH
+379,94.0,HiPR Innovation,non-dilutive,HiPR Innovation-non-dilutive,1000.0,2020-08-06,Clare,Crunchbase,TNVC 2020 Winnings,8/3/20 CMH
+380,95.0,Intelligent Nanofiber,non-dilutive,Intelligent Nanofiber-non-dilutive,5000.0,2020-08-06,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+381,8.0,Noninvasix,dilutive,Noninvasix-dilutive,6664746.0,2020-08-11,Clare,Crunchbase,$3.6M Venture Round from 3/20,8/13/20 CMH
+382,79.0,NovoThelium,non-dilutive,NovoThelium-non-dilutive,4000.0,2020-08-11,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+383,80.0,PolyVascular,non-dilutive,PolyVascular-non-dilutive,25000.0,2020-08-11,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+384,47.0,Sensytec,non-dilutive,Sensytec-non-dilutive,35000.0,2020-08-13,Clare,Crunchbase,TNVC 2020 Winnings,8/3/20 CMH
+385,102.0,VeraDermics Incorporated,non-dilutive,VeraDermics Incorporated-non-dilutive,5000.0,2020-08-13,Clare,Crunchbase,TNVC 2020 Winnings,8/13/20 CMH
+386,64.0,VenoStent,dilutive,VenoStent-dilutive,125000.0,2020-09-08,Clare,Crunchbase,Seed Round,8/13/20 CMH
+387,68.0,Yotta Solar,dilutive,Yotta Solar-dilutive,8025000.0,2020-11-03,Clare,Crunchbase,"Venture Round 10/13/20, 6.3M",8/13/20 CMH
+388,63.0,VastBiome,dilutive,VastBiome-dilutive,5200000.0,2020-12-07,Clare,Crunchbase,"Seed round, 11/13/20, 4.5M",8/13/20 CMH
+389,3.0,Brevitest Technologies,dilutive,Brevitest Technologies-dilutive,2700000.0,2021-01-06,Clare,Crunchbase,"Venture Round 12/22/2020, ",8/13/20 CMH
+390,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,3000000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+391,,Advanced Scanners,non-dilutive,Advanced Scanners-non-dilutive,327000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/3/20 CMH
+392,87.0,Allotrope Medical,dilutive,Allotrope Medical-dilutive,1600000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+393,87.0,Allotrope Medical,non-dilutive,Allotrope Medical-non-dilutive,1200000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+394,55.0,Arovia,dilutive,Arovia-dilutive,1700000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+395,55.0,Arovia,non-dilutive,Arovia-non-dilutive,250000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+396,88.0,Articulate Labs,dilutive,Articulate Labs-dilutive,545000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+397,88.0,Articulate Labs,non-dilutive,Articulate Labs-non-dilutive,25000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+398,22.0,Astrapi,dilutive,Astrapi-dilutive,2850000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+399,22.0,Astrapi,non-dilutive,Astrapi-non-dilutive,1250000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+400,56.0,AtmoSpark,dilutive,AtmoSpark-dilutive,50000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+401,56.0,AtmoSpark,non-dilutive,AtmoSpark-non-dilutive,60000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+402,35.0,Claridge-Culp,dilutive,Claridge-Culp-dilutive,0.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/3/20 CMH
+403,35.0,Claridge-Culp,non-dilutive,Claridge-Culp-non-dilutive,1500000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+404,72.0,EM Device Lab,dilutive,EM Device Lab-dilutive,600000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+405,72.0,EM Device Lab,dilutive,EM Device Lab-dilutive,575000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+406,72.0,EM Device Lab,non-dilutive,EM Device Lab-non-dilutive,100000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/3/20 CMH
+407,72.0,EM Device Lab,non-dilutive,EM Device Lab-non-dilutive,100000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+408,90.0,Endpoint Security,dilutive,Endpoint Security-dilutive,50000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+409,90.0,Endpoint Security,non-dilutive,Endpoint Security-non-dilutive,0.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+410,91.0,Energy Bionics,dilutive,Energy Bionics-dilutive,150000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/4/20 CMH
+411,91.0,Energy Bionics,non-dilutive,Energy Bionics-non-dilutive,50000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+412,73.0,GaitIQ,dilutive,GaitIQ-dilutive,325000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+413,73.0,GaitIQ,non-dilutive,GaitIQ-non-dilutive,2950000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+414,57.0,M&S Biotics,dilutive,M&S Biotics-dilutive,1152500.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+415,57.0,M&S Biotics,non-dilutive,M&S Biotics-non-dilutive,467500.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+416,41.0,Macromoltek,dilutive,Macromoltek-dilutive,2800000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+417,41.0,Macromoltek,non-dilutive,Macromoltek-non-dilutive,1200000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+418,27.0,NarrativeDx,dilutive,NarrativeDx-dilutive,7800000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+419,27.0,NarrativeDx,non-dilutive,NarrativeDx-non-dilutive,0.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+420,79.0,NovoThelium,dilutive,NovoThelium-dilutive,0.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+421,79.0,NovoThelium,non-dilutive,NovoThelium-non-dilutive,350000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+422,61.0,SABER Corportation,dilutive,SABER Corportation-dilutive,40000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+423,61.0,SABER Corportation,non-dilutive,SABER Corportation-non-dilutive,239000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+424,48.0,Shower Stream,dilutive,Shower Stream-dilutive,1000000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/4/20 CMH
+425,48.0,Shower Stream,non-dilutive,Shower Stream-non-dilutive,1500000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+426,99.0,Solenic Medical,dilutive,Solenic Medical-dilutive,560000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+427,99.0,Solenic Medical,non-dilutive,Solenic Medical-non-dilutive,1350000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+428,81.0,Spark Biomedical,dilutive,Spark Biomedical-dilutive,5000000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,7/29/20 CMH
+429,81.0,Spark Biomedical,non-dilutive,Spark Biomedical-non-dilutive,293000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/4/20 CMH
+430,100.0,TexPower,dilutive,TexPower-dilutive,0.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+431,100.0,TexPower,non-dilutive,TexPower-non-dilutive,1845000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+432,64.0,VenoStent,dilutive,VenoStent-dilutive,3200000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+433,64.0,VenoStent,non-dilutive,VenoStent-non-dilutive,2300000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+434,18.0,Voyager Biomedical (Scepter Medical Devices),dilutive,Voyager Biomedical (Scepter Medical Devices)-dilutive,1000000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+435,18.0,Voyager Biomedical (Scepter Medical Devices),non-dilutive,Voyager Biomedical (Scepter Medical Devices)-non-dilutive,2125000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+436,103.0,Xebec,dilutive,Xebec-dilutive,45000.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,8/13/20 CMH
+437,103.0,Xebec,non-dilutive,Xebec-non-dilutive,0.0,2021-01-12,Clare & Neil,TNVC 2020 Survey,,
+438,64.0,VenoStent,dilutive,VenoStent-dilutive,3470000.0,2021-02-04,Neil,Lenae,"Lenae asked (email) Timothy Boire on Feb 1, 2021",
+439,64.0,VenoStent,non-dilutive,VenoStent-non-dilutive,287000.0,2021-02-04,Neil,Lenae,"Lenae asked (email) Timothy Boire on Feb 1, 2021",
+440,27.0,NarrativeDx,dilutive,NarrativeDx-dilutive,37800000.0,2021-02-04,Neil,Clare,Clare sent me an email with new figures,
+441,27.0,NarrativeDx,non-dilutive,NarrativeDx-non-dilutive,0.0,2021-02-04,Neil,Clare,Clare sent me an email with new figures,
+442,74.0,Harmony Aeronautics,non-dilutive,Harmony Aeronautics-non-dilutive,150000.0,2021-02-04,Neil,Clare,Clare found this STTR online,
+443,86.0,Allosense,dilutive,Allosense-dilutive,100000.0,2021-04-20,Emily,Crunchbase,Convertible notes from Capital Innovators and San Antonio Military Medical Innovation Fund,
+444,86.0,Allosense,non-dilutive,Allosense-non-dilutive,25500.0,2021-04-20,Emily,Crunchbase,TechBloc grant and TNVC winnings,
+445,86.0,Allosense,total-nodetail,Allosense-total-nodetail,200000.0,2021-04-20,Emily,Crunchbase,TNVC 2020 Application,
+446,25.0,ENTvantgage Diagnostics,dilutive,ENTvantgage Diagnostics-dilutive,10100000.0,2021-04-20,Emily,Crunchbase,Venture - Series Unknown,
+447,25.0,ENTvantgage Diagnostics,non-dilutive,ENTvantgage Diagnostics-non-dilutive,0.0,2021-04-20,Emily,Crunchbase,,
+448,25.0,ENTvantgage Diagnostics,total-nodetail,ENTvantgage Diagnostics-total-nodetail,0.0,2021-04-20,Emily,Crunchbase,,
+449,75.0,Health Note,dilutive,Health Note-dilutive,1100000.0,2021-04-20,Emily,Crunchbase,TNVC 2019 Survey,
+450,75.0,Health Note,non-dilutive,Health Note-non-dilutive,20000.0,2021-04-20,Emily,Crunchbase,Non Equity Assistance $20k Mass Challenge,
+451,75.0,Health Note,total-nodetail,Health Note-total-nodetail,150000.0,2021-04-20,Emily,Crunchbase,TNVC 2019 App,
+452,62.0,Sunrise Health,dilutive,Sunrise Health-dilutive,1300000.0,2021-04-20,Emily,Crunchbase,Rough Draft Ventures Seed Round,
+453,62.0,Sunrise Health,non-dilutive,Sunrise Health-non-dilutive,20000.0,2021-04-20,Emily,Crunchbase,Grant from Mass Challenge,
+454,62.0,Sunrise Health,total-nodetail,Sunrise Health-total-nodetail,250000.0,2021-04-20,Emily,Crunchbase,,
+455,83.0,SurfEllent,dilutive,SurfEllent-dilutive,350000.0,2021-04-20,Emily,Crunchbase,Survey 2019,
+456,83.0,SurfEllent,non-dilutive,SurfEllent-non-dilutive,350000.0,2021-04-20,Emily,Crunchbase,Grant $150k (NSF Small Business Innovation Research / Small Business Technology Transfer (SBIR/STTR)),
+457,83.0,SurfEllent,total-nodetail,SurfEllent-total-nodetail,50000.0,2021-04-20,Emily,Crunchbase,TNVC 2019 Application,
+458,64.0,VenoStent,dilutive,VenoStent-dilutive,5700000.0,2021-04-20,Emily,Crunchbase,Seed Round - $2.3M Creative Ventures,
+459,64.0,VenoStent,non-dilutive,VenoStent-non-dilutive,287000.0,2021-04-20,Emily,Crunchbase,From email with Tim and Lenae,
+460,64.0,VenoStent,total-nodetail,VenoStent-total-nodetail,0.0,2021-04-20,Emily,Crunchbase,,
+461,87.0,Allotrope Medical,dilutive,Allotrope Medical-dilutive,5600000.0,2021-06-08,Neil,News,Clare sent email on 6/4/21,
+462,87.0,Allotrope Medical,dilutive,Allotrope Medical-dilutive,5020000.0,2021-06-12,Neil,"New, original app","Lenae sent email on Jun 8 2021 (2:24 pm) with analysis. Clare, Chris were cc'ed.",
+463,87.0,Allotrope Medical,non-dilutive,Allotrope Medical-non-dilutive,980000.0,2021-06-12,Neil,"New, original app","Lenae sent email on Jun 8 2021 (2:24 pm) with analysis. Clare, Chris were cc'ed.",
+464,87.0,Allotrope Medical,total-nodetail,Allotrope Medical-total-nodetail,0.0,2021-06-12,Neil,"New, original app","Lenae sent email on Jun 8 2021 (2:24 pm) with analysis. Clare, Chris were cc'ed.",
+465,80.0,PolyVascular,non-dilutive,PolyVascular-non-dilutive,2249627.0,2021-06-12,Neil,News,"Clare sent email to Chris, Lenae on 6/11/21 (11:38 am)",
+466,104.0,ASR Systems,dilutive,ASR Systems-dilutive,1200000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+467,105.0,AVA Propulsion,dilutive,AVA Propulsion-dilutive,300000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+468,109.0,HelioWave Technologies,dilutive,HelioWave Technologies-dilutive,3000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+469,111.0,Icii Technologies,dilutive,Icii Technologies-dilutive,10000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+470,112.0,Industrom Power,dilutive,Industrom Power-dilutive,600000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+471,113.0,Koda Health,dilutive,Koda Health-dilutive,600000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+472,115.0,MicroSilicon,dilutive,MicroSilicon-dilutive,2100000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+473,118.0,SparkSigma,dilutive,SparkSigma-dilutive,250000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+474,119.0,Starling Medical,dilutive,Starling Medical-dilutive,50000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+475,121.0,TYBR Health,dilutive,TYBR Health-dilutive,710000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+476,122.0,Vitanova Biomedical,dilutive,Vitanova Biomedical-dilutive,795000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+477,107.0,DrillDocs Company,non-dilutive,DrillDocs Company-non-dilutive,65000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+478,108.0,EmGenisys,non-dilutive,EmGenisys-non-dilutive,118000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+479,109.0,HelioWave Technologies,non-dilutive,HelioWave Technologies-non-dilutive,225000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+480,110.0,HERO Medical Technologies,non-dilutive,HERO Medical Technologies-non-dilutive,155000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+481,111.0,Icii Technologies,non-dilutive,Icii Technologies-non-dilutive,50000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+482,114.0,Max-IR Labs,non-dilutive,Max-IR Labs-non-dilutive,2000000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+483,115.0,MicroSilicon,non-dilutive,MicroSilicon-non-dilutive,375000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+484,117.0,SKYPaws,non-dilutive,SKYPaws-non-dilutive,42000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+485,119.0,Starling Medical,non-dilutive,Starling Medical-non-dilutive,370000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+486,120.0,TEZCAT Laboratories,non-dilutive,TEZCAT Laboratories-non-dilutive,475000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+487,121.0,TYBR Health,non-dilutive,TYBR Health-non-dilutive,500000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+488,122.0,Vitanova Biomedical,non-dilutive,Vitanova Biomedical-non-dilutive,307800.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+489,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,750000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+490,76.0,Ictero Medical,non-dilutive,Ictero Medical-non-dilutive,275000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+491,99.0,Solenic Medical,dilutive,Solenic Medical-dilutive,610000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+492,99.0,Solenic Medical,non-dilutive,Solenic Medical-non-dilutive,1350000.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+493,99.0,Solenic Medical,total-nodetail,Solenic Medical-total-nodetail,0.0,2021-06-12,Neil,TNVC 2021 App,Clare sent this info on 6/11/21 (2:22 pm),
+494,105.0,AVA Propulsion,non-dilutive,AVA Propulsion-non-dilutive,10000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+495,,CodeWalker,non-dilutive,CodeWalker-non-dilutive,5000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+496,107.0,DrillDocs Company,non-dilutive,DrillDocs Company-non-dilutive,75000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+497,108.0,EmGenisys,non-dilutive,EmGenisys-non-dilutive,123000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+498,,HelioWAVE Technologies,non-dilutive,HelioWAVE Technologies-non-dilutive,235000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+499,110.0,HERO Medical Technologies,non-dilutive,HERO Medical Technologies-non-dilutive,180000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+500,76.0,Ictero Medical,non-dilutive,Ictero Medical-non-dilutive,320000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+501,113.0,Koda Health,non-dilutive,Koda Health-non-dilutive,50000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+502,,Microsilicon,non-dilutive,Microsilicon-non-dilutive,400000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+503,116.0,RiverWalk Therapeutics,non-dilutive,RiverWalk Therapeutics-non-dilutive,10000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+504,,SkyPaws,non-dilutive,SkyPaws-non-dilutive,55000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+505,99.0,Solenic Medical,non-dilutive,Solenic Medical-non-dilutive,1387000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+506,119.0,Starling Medical,non-dilutive,Starling Medical-non-dilutive,445000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+507,120.0,TEZCAT Laboratories,non-dilutive,TEZCAT Laboratories-non-dilutive,485000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+508,121.0,TYBR Health,non-dilutive,TYBR Health-non-dilutive,521000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+509,122.0,Vitanova Biomedical,non-dilutive,Vitanova Biomedical-non-dilutive,327800.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+510,122.0,Vitanova Biomedical,dilutive,Vitanova Biomedical-dilutive,920000.0,2021-06-14,Neil,TNVC 2021,TNVC 2021 Winnings,
+511,39.0,IntuiTap Medical,dilutive,IntuiTap Medical-dilutive,11800000.0,2021-07-12,Clare,Article,Series A round ,
+512,64.0,VenoStent,dilutive,VenoStent-dilutive,4276884.0,2021-09-14,Clare,TNVC 2021 Survey,This amount is lower than our previous recorded,
+513,113.0,Koda Health,dilutive,Koda Health-dilutive,600000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+514,73.0,GaitIQ,dilutive,GaitIQ-dilutive,325000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+515,100.0,TexPower,dilutive,TexPower-dilutive,500000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+516,69.0,Bezoar Laborartories,dilutive,Bezoar Laborartories-dilutive,0.0,2021-09-14,Clare,TNVC 2021 Survey,,
+517,37.0,Fortis Biosciences,dilutive,Fortis Biosciences-dilutive,10000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+518,88.0,Articulate Labs,dilutive,Articulate Labs-dilutive,515000.0,2021-09-14,Clare,TNVC 2021 Survey,"decrease of 30,000",
+519,90.0,Endpoint Security,dilutive,Endpoint Security-dilutive,50000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+520,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,3000000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+521,55.0,Arovia,dilutive,Arovia-dilutive,1555000.0,2021-09-14,Clare,TNVC 2021 Survey,"decrease of 200,000",
+522,107.0,DrillDocs Company,dilutive,DrillDocs Company-dilutive,0.0,2021-09-14,Clare,TNVC 2021 Survey,,
+523,72.0,EM Device Lab,dilutive,EM Device Lab-dilutive,1000000.0,2021-09-14,Clare,TNVC 2021 Survey,"increase of 425,000",
+524,116.0,RiverWalk Therapeutics,dilutive,RiverWalk Therapeutics-dilutive,0.0,2021-09-14,Clare,TNVC 2021 Survey,,
+525,30.0,Siva Therapeutics,dilutive,Siva Therapeutics-dilutive,700000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+526,81.0,Spark Biomedical,dilutive,Spark Biomedical-dilutive,9500000.0,2021-09-14,Clare,TNVC 2021 Survey,"increase of 4,500,000",
+527,35.0,Claridge-Culp,dilutive,Claridge-Culp-dilutive,0.0,2021-09-14,Clare,TNVC 2021 Survey,,
+528,83.0,SurfEllent,dilutive,SurfEllent-dilutive,350000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+529,96.0,Katz Water Technologies,dilutive,Katz Water Technologies-dilutive,575000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+530,91.0,Energy Bionics,dilutive,Energy Bionics-dilutive,150000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+531,108.0,EmGenisys,dilutive,EmGenisys-dilutive,0.0,2021-09-14,Clare,TNVC 2021 Survey,,
+532,36.0,Clear River Enviro,dilutive,Clear River Enviro-dilutive,3200000.0,2021-09-14,Clare,TNVC 2021 Survey,"decrease of 600,000",
+533,105.0,AVA Propulsion,dilutive,AVA Propulsion-dilutive,300000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+534,64.0,VenoStent,non-dilutive,VenoStent-non-dilutive,2867370.0,2021-09-14,Clare,TNVC 2021 Survey,,
+535,113.0,Koda Health,non-dilutive,Koda Health-non-dilutive,350000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+536,73.0,GaitIQ,non-dilutive,GaitIQ-non-dilutive,2950000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+537,100.0,TexPower,non-dilutive,TexPower-non-dilutive,1900000.0,2021-09-14,Clare,TNVC 2021 Survey,increase of 55000,
+538,69.0,Bezoar Laborartories,non-dilutive,Bezoar Laborartories-non-dilutive,450000.0,2021-09-14,Clare,TNVC 2021 Survey,increase of 135000,
+539,37.0,Fortis Biosciences,non-dilutive,Fortis Biosciences-non-dilutive,15000.0,2021-09-14,Clare,TNVC 2021 Survey,increase of 5000,
+540,88.0,Articulate Labs,non-dilutive,Articulate Labs-non-dilutive,80000.0,2021-09-14,Clare,TNVC 2021 Survey,"increase of 55,000",
+541,90.0,Endpoint Security,non-dilutive,Endpoint Security-non-dilutive,0.0,2021-09-14,Clare,TNVC 2021 Survey,,
+542,,Advanced Scanners,non-dilutive,Advanced Scanners-non-dilutive,325000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+543,55.0,Arovia,non-dilutive,Arovia-non-dilutive,300000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+544,107.0,DrillDocs Company,non-dilutive,DrillDocs Company-non-dilutive,75000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+545,72.0,EM Device Lab,non-dilutive,EM Device Lab-non-dilutive,100000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+546,116.0,RiverWalk Therapeutics,non-dilutive,RiverWalk Therapeutics-non-dilutive,10000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+547,30.0,Siva Therapeutics,non-dilutive,Siva Therapeutics-non-dilutive,2010000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+548,81.0,Spark Biomedical,non-dilutive,Spark Biomedical-non-dilutive,5200000.0,2021-09-14,Clare,TNVC 2021 Survey,"increase of 4,907,000",
+549,35.0,Claridge-Culp,non-dilutive,Claridge-Culp-non-dilutive,1500000.0,2021-09-14,Clare,TNVC 2021 Survey,keeping same as 2020 survey,
+550,83.0,SurfEllent,non-dilutive,SurfEllent-non-dilutive,1100000.0,2021-09-14,Clare,TNVC 2021 Survey,"increase of 750,000",
+551,96.0,Katz Water Technologies,non-dilutive,Katz Water Technologies-non-dilutive,2040000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+552,91.0,Energy Bionics,non-dilutive,Energy Bionics-non-dilutive,50000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+553,108.0,EmGenisys,non-dilutive,EmGenisys-non-dilutive,125500.0,2021-09-14,Clare,TNVC 2021 Survey,,
+554,36.0,Clear River Enviro,non-dilutive,Clear River Enviro-non-dilutive,15000.0,2021-09-14,Clare,TNVC 2021 Survey,,
+555,105.0,AVA Propulsion,non-dilutive,AVA Propulsion-non-dilutive,15000.0,2021-09-14,Clare,TNVC 2021 Survey,increase of 5000,
+556,74.0,Harmony Aeronautics,non-dilutive,Harmony Aeronautics-non-dilutive,420000.0,2021-11-02,Clare,per Saurabh,,
+557,74.0,Harmony Aeronautics,total-nodetail,Harmony Aeronautics-total-nodetail,0.0,2021-11-02,Clare,per Saurabh,Moved no-detail to non-dilutive,
+558,15.0,Thermal Expansion Solutions (Allvar),non-dilutive,Thermal Expansion Solutions (Allvar)-non-dilutive,1949907.0,2021-11-02,Lenae,SBIR database,,
+559,108.0,EmGenisys,non-dilutive,EmGenisys-non-dilutive,250000.0,2021-11-19,Clare,per Lenae/social media,Grow NY prize,
+560,109.0,HelioWave Technologies,non-dilutive,HelioWave Technologies-non-dilutive,275000.0,2021-11-22,Clare,TNVC 2021 Survey,increase of 40K,
+561,109.0,HelioWave Technologies,dilutive,HelioWave Technologies-dilutive,10000.0,2021-11-22,Clare,TNVC 2021 Survey,increase of 7K,
+562,119.0,Starling Medical,dilutive,Starling Medical-dilutive,1050000.0,2022-02-10,Clare,Email from Alex Arevalos,$1M VC funding,
+563,34.0,Alleviant Medical,dilutive,Alleviant Medical-dilutive,13000000.0,2022-04-11,Eric,Crunchbase,4/11/22 updated additional 5.3M to prior round,4/11/22 ER
+564,104.0,ASR Systems,dilutive,ASR Systems-dilutive,3300000.0,2022-04-13,Eric,Crunchbase,Seed round 8/21/21,
+565,70.0,BioLum Sciences,dilutive,BioLum Sciences-dilutive,403000.0,2022-04-14,Eric,Crunchbase,,
+566,70.0,BioLum Sciences,non-dilutive,BioLum Sciences-non-dilutive,476700.0,2022-04-14,Eric,Crunchbase,,
+567,75.0,Health Note,dilutive,Health Note-dilutive,6000000.0,2022-04-14,Eric,Crunchbase,Founder's Collective Seed Round 9/1/20 $5M,
+568,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,2750000.0,2021-06-14,Eric,Crunchbase,Venture Round $2M  2/1/22,
+569,78.0,Intelligent Implants,total-nodetail,Intelligent Implants-total-nodetail,8051000.0,2022-04-14,Eric,Crunchbase,5.5M euro new funding ,
+570,113.0,Koda Health,dilutive,Koda Health-dilutive,4100000.0,2021-09-14,Eric,Crunchbase,$3.5M Seed Round  2/7/22 ,
+571,7.0,Luminostics,non-dilutive,Luminostics-non-dilutive,2250000.0,2022-04-15,Eric,Crunchbase,$2M Grant 10/22/21,
+572,8.0,Noninvasix,dilutive,Noninvasix-dilutive,10364000.0,2022-04-15,Eric,Crunchbase,2M Venture Round 2/4/21 and $1.7M Seed Round 12/6/21,
+573,,Smarter Sorting,dilutive,Smarter Sorting-dilutive,66600000.0,2022-04-15,Eric,Crunchbase,"$35M new funding (1.2M Series A 7/1/20, $5.6M Series A 3/1/21, $3.2M Convertible Note 11/1/21, $25M Venture Round 3/23/22) ",
+574,31.0,Stream Biomedical,dilutive,Stream Biomedical-dilutive,25500000.0,2022-04-15,Eric,Crunchbase,$21.5M Series A Round 1/7/22,
+575,102.0,VeraDermics Incorporated,dilutive,VeraDermics Incorporated-dilutive,20700000.0,2022-04-15,Eric,Crunchbase,20.7M Series A Round 9/22/21,
+576,68.0,Yotta Solar,dilutive,Yotta Solar-dilutive,21025000.0,2022-04-15,Eric,Crunchbase,$13M Series A Round 11/2/21,
+577,123.0,"Alt-Bionics, Inc",dilutive,"Alt-Bionics, Inc-dilutive",301500.0,2022-06-13,Clare,TNVC 2022 App, ,
+578,124.0,Alula Learning,dilutive,Alula Learning-dilutive,270000.0,2022-06-13,Clare,TNVC 2022 App,,
+579,126.0,"Blue Sky Measurements, Inc",non-dilutive,"Blue Sky Measurements, Inc-non-dilutive",500000.0,2022-06-13,Clare,TNVC 2022 App,,
+580,126.0,"Blue Sky Measurements, Inc",dilutive,"Blue Sky Measurements, Inc-dilutive",500000.0,2022-06-13,Clare,TNVC 2022 App,<500k in founder based funding,
+581,127.0,DeepCast.ai,non-dilutive,DeepCast.ai-non-dilutive,256000.0,2022-06-13,Clare,TNVC 2022 App,Grant - National Science Foundation,
+582,108.0,EmGenisys,non-dilutive,EmGenisys-non-dilutive,678000.0,2022-06-13,Clare,TNVC 2022 App,,
+583,130.0,FluxWorks,dilutive,FluxWorks-dilutive,5000.0,2022-06-13,Clare,TNVC 2022 App,,
+584,133.0,Revolution Turbine Technologies,dilutive,Revolution Turbine Technologies-dilutive,240000.0,2022-06-13,Clare,TNVC 2022 App,,
+585,133.0,Revolution Turbine Technologies,non-dilutive,Revolution Turbine Technologies-non-dilutive,1195000.0,2022-06-13,Clare,TNVC 2022 App,,
+586,134.0,"SolGro, Inc.",non-dilutive,"SolGro, Inc.-non-dilutive",350000.0,2022-06-13,Clare,TNVC 2022 App,,
+587,134.0,"SolGro, Inc.",dilutive,"SolGro, Inc.-dilutive",550000.0,2022-06-13,Clare,TNVC 2022 App,,
+588,135.0,SUHO Biotechnology LLC,non-dilutive,SUHO Biotechnology LLC-non-dilutive,225000.0,2022-06-13,Clare,TNVC 2022 App,,
+589,137.0,"Vaccine Systems, LLC",dilutive,"Vaccine Systems, LLC-dilutive",140000.0,2022-06-13,Clare,TNVC 2022 App,,
+590,138.0,XN Health Inc,non-dilutive,XN Health Inc-non-dilutive,272000.0,2022-06-13,Clare,TNVC 2022 App,,
+591,125.0,"Atlas Sensor Technologies, Inc.",non-dilutive,"Atlas Sensor Technologies, Inc.-non-dilutive",617500.0,2022-06-13,Clare,TNVC 2022 App,,
+592,125.0,"Atlas Sensor Technologies, Inc.",dilutive,"Atlas Sensor Technologies, Inc.-dilutive",55000.0,2022-06-13,Clare,TNVC 2022 App,,
+593,,"Tremedics Medical Devices, INC",non-dilutive,"Tremedics Medical Devices, INC-non-dilutive",610000.0,2022-06-13,Clare,TNVC 2022 App,,
+594,,"Tremedics Medical Devices, INC",dilutive,"Tremedics Medical Devices, INC-dilutive",120000.0,2022-06-13,Clare,TNVC 2022 App,,
+595,131.0,Longhorn Life Sciences,non-dilutive,Longhorn Life Sciences-non-dilutive,33000.0,2022-06-13,Clare,TNVC 2022 App,,
+596,110.0,HERO Medical Technologies,non-dilutive,HERO Medical Technologies-non-dilutive,255000.0,2022-06-13,Clare,TNVC 2022 App,,
+597,110.0,HERO Medical Technologies,dilutive,HERO Medical Technologies-dilutive,610000.0,2022-06-13,Clare,TNVC 2022 App,,
+598,121.0,TYBR Health,non-dilutive,TYBR Health-non-dilutive,256000.0,2022-06-13,Clare,TNVC 2022 App,,
+599,121.0,TYBR Health,dilutive,TYBR Health-dilutive,1716000.0,2022-06-13,Clare,TNVC 2022 App,,
+600,107.0,DrillDocs Company,non-dilutive,DrillDocs Company-non-dilutive,114000.0,2022-06-13,Clare,TNVC 2022 App,,
+601,130.0,FluxWorks,non-dilutive,FluxWorks-non-dilutive,45000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+602,134.0,"SolGro, Inc.",non-dilutive,"SolGro, Inc.-non-dilutive",370000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+603,138.0,XN Health Inc,non-dilutive,XN Health Inc-non-dilutive,312000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+604,128.0,Dynamic Light,non-dilutive,Dynamic Light-non-dilutive,10000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+605,133.0,Revolution Turbine Technologies,non-dilutive,Revolution Turbine Technologies-non-dilutive,1203000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+606,108.0,EmGenisys,non-dilutive,EmGenisys-non-dilutive,682000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+607,131.0,Longhorn Life Sciences,non-dilutive,Longhorn Life Sciences-non-dilutive,38000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+608,110.0,HERO Medical Technologies,non-dilutive,HERO Medical Technologies-non-dilutive,259000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+609,90.0,Endpoint Security,non-dilutive,Endpoint Security-non-dilutive,3000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+610,121.0,TYBR Health,non-dilutive,TYBR Health-non-dilutive,256500.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+611,,"Tremedics Medical Devices, INC",non-dilutive,"Tremedics Medical Devices, INC-non-dilutive",635000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+612,138.0,XN Health Inc,dilutive,XN Health Inc-dilutive,50000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+613,128.0,Dynamic Light,dilutive,Dynamic Light-dilutive,50000.0,2022-06-13,Clare,TNVC 2022 Winnings,,
+614,34.0,Alleviant Medical,dilutive,Alleviant Medical-dilutive,75000000.0,2023-01-26,Eric,Press release (Businesswire),,
+615,115.0,MicroSilicon,dilutive,MicroSilicon-dilutive,205721.05,2023-02-03,Eric,LinkedIn,,
+616,55.0,Arovia,dilutive,Arovia-dilutive,1500000.0,2021-09-05,Eric,Crunchbase,Seed Round,
+617,88.0,Articulate Labs,dilutive,Articulate Labs-dilutive,120000.0,2022-09-15,Eric,Crunchbase,Seed Round - Techstars,
+618,89.0,Bondwell Technologies,non-dilutive,Bondwell Technologies-non-dilutive,235500.0,2020-11-30,Eric,Crunchbase,Grant,
+619,25.0,ENTvantgage Diagnostics,dilutive,ENTvantgage Diagnostics-dilutive,5900000.0,2023-03-03,Eric,Crunchbase,"$1.1M  8/12/20, $3.3M 10/13/17, $1.5M 7/25/16",
+620,75.0,Health Note,dilutive,Health Note-dilutive,17000000.0,2023-03-03,Eric,Crunchbase,Series A round,
+621,81.0,Spark Biomedical,dilutive,Spark Biomedical-dilutive,16200000.0,2023-03-08,Eric,Chris and Spark CEO,Series A Round - Waco,
+622,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,6000000.0,2021-12-12,Eric,Crunchbase,Series A - MedTex Ventures & S3 Ventures,
+623,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,2500000.0,2022-02-01,Eric,Crunchbase,Venture Round  ,
+624,76.0,Ictero Medical,dilutive,Ictero Medical-dilutive,6000000.0,2022-04-29,Eric,Crunchbase,Series A - MedTex Ventures & S3 Ventures,
+625,39.0,IntuiTap Medical,non-dilutive,IntuiTap Medical-non-dilutive,1000000.0,2021-12-22,Eric,Crunchbase,Grant - National Science Foundation,
+626,50.0,Smarter Sorting (Smarter X),dilutive,Smarter Sorting (Smarter X)-dilutive,7000000.0,2022-08-01,Eric,Crunchbase,Venture Round,
+627,99.0,Solenic Medical,dilutive,Solenic Medical-dilutive,3700000.0,2022-12-28,Eric,Crunchbase,,
+628,119.0,Starling Medical,dilutive,Starling Medical-dilutive,3700000.0,2023-01-27,Eric,Crunchbase,Venture Round - Rebel Fund,
+629,82.0,Sun Co. Tracking,non-dilutive,Sun Co. Tracking-non-dilutive,350000.0,2022-05-17,Eric,Crunchbase,Debt financing,
+630,101.0,Valhalla Healthcare,dilutive,Valhalla Healthcare-dilutive,100000.0,2022-06-01,Eric,Crunchbase,Seed Round,
+631,63.0,VastBiome,dilutive,VastBiome-dilutive,14500000.0,2023-03-09,Eric,Crunchbase,Seed round 9/7/22,
+632,,Revolution Turbine Technology,non-dilutive,Revolution Turbine Technology-non-dilutive,200000.0,2022-03-10,Eric,Crunchbase,Grant ,
+633,57.0,M&S Biotics,dilutive,M&S Biotics-dilutive,2006000.0,2023-03-31,Eric,Chris,From conversation Chris had w CEO Josh Mecca ,
+634,57.0,M&S Biotics,non-dilutive,M&S Biotics-non-dilutive,290000.0,2023-03-31,Eric,Chris,From conversation Chris had w CEO Josh Mecca ,
+635,87.0,Allotrope Medical,dilutive,Allotrope Medical-dilutive,40000000.0,2023-04-28,Eric,Chris,Confirmed by CS directly with Albert Huang - CONFIDENTIAL estimate of up front + royalties for acquisition by Northgate Technologies,
+636,155.0,"Cellula BioPharma, Inc.",dilutive,"Cellula BioPharma, Inc.-dilutive",550000.0,2023-06-12,Eric,2023 TNVC application,$500K nonconvertable notes + 50K from founders,
+637,155.0,"Cellula BioPharma, Inc.",non-dilutive,"Cellula BioPharma, Inc.-non-dilutive",595250.0,2023-06-12,Eric,2023 TNVC application,"$530,250 DoD Lung Cancer Research + $65,000 TAMU TIF",
+638,139.0,Corveus Medical,non-dilutive,Corveus Medical-non-dilutive,902000.0,2023-06-12,Eric,2023 TNVC application,"$500K Y-Combinator, $50K NSF I-Corps, $352K from founders and angels",
+639,,"CryoDesalination, LLC",non-dilutive,"CryoDesalination, LLC-non-dilutive",1156000.0,2023-06-12,Eric,2023 TNVC application,"$875K founders, $256K NSF grant",
+640,,"HPTechAi, LLC",total-nodetail,"HPTechAi, LLC-total-nodetail",0.0,2023-06-12,Eric,2023 TNVC application,,
+641,144.0,Luci,total-nodetail,Luci-total-nodetail,150000.0,2023-06-12,Eric,2023 TNVC application,,
+642,,NeuraStasis Inc.,dilutive,NeuroStasis Inc.-dilutive,365000.0,2023-06-12,Eric,2023 TNVC application,,
+643,146.0,"Opsin Biotherapeutics, Inc.",dilutive,"Opsin Biotherapeutics, Inc.-dilutive",200000.0,2023-06-12,Eric,2023 TNVC application,$100K each from DesignPlex Biomedical and NanoScope Technology,
+644,,PIRvision Lens,non-dilutive,PIRvision Lens-non-dilutive,150000.0,2023-06-12,Eric,2023 TNVC application,"$100K Friends and founders, $50K NSF I-Corps",
+645,150.0,"Prosia Therapeutics, Inc.",non-dilutive,"Prosia Therapeutics, Inc.-non-dilutive",45469.0,2023-06-12,Eric,2023 TNVC application,From Founder,
+646,151.0,"SageSpectra, Inc.",dilutive,"SageSpectra, Inc.-dilutive",70000.0,2023-06-12,Eric,2023 TNVC application,"$20K from two investors, $50K Health Wildcatters Accelerator",
+647,152.0,Taurus Vascular,dilutive,Taurus Vascular-dilutive,350000.0,2023-06-12,Eric,2023 TNVC application,Texas Medical Center Innovation ,
+648,,Waltech International,non-dilutive,Walltech UInternational-non-dilutive,120000.0,2023-06-12,Eric,2023 TNVC application,Friends and founders,
+649,149.0,"Predyct, Inc.",total-nodetail,"Predyct, Inc.-total-nodetail",0.0,2023-06-12,Eric,2023 TNVC application,,
+650,156.0,"Circle Concrete Tech, Inc.",non-dilutive,"Circle Concrete Tech, Inc.-non-dilutive",20000.0,2023-06-12,Eric,2023 TNVC application,Texas State University New Ventures fund,
+651,142.0,Ember Sleep,non-dilutive,Ember Sleep-non-dilutive,210000.0,2023-06-12,Eric,2023 TNVC application,Texas Medical Center Innovation award,
+652,,NeuroStasis Inc.,non-dilutive,Neurostasis Inc.-non-dilutive,112000.0,2023-06-12,Eric,2023 TNVC application,"$100K NIH Blueprint, $12K Other",
+653,146.0,"Opsin Biotherapeutics, Inc.",non-dilutive,"Opsin Biotherapeutics, Inc.-non-dilutive",112000.0,2023-06-12,Eric,2023 TNVC application,NIH Phase 1 grant,
+654,151.0,"SageSpectra, Inc.",non-dilutive,"SageSpectra, Inc.-non-dilutive",50000.0,2023-06-12,Eric,2023 TNVC application,NSF grant,
+655,81.0,Spark Biomedical,non-dilutive,Spark Biomedical-non-dilutive,1150000.0,2023-09-18,Eric,Company press release,Phase II grant,
+656,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,8200000.0,2024-01-19,Eric,CrunchBase,Series A  11/30/23,
+657,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,4600000.0,2024-01-19,Eric,CrunchBase,Venture Round 5/19/23,
+658,,Advanced Scanners,dilutive,Advanced Scanners-dilutive,3500000.0,2024-01-19,Eric,CrunchBase,Series A  1/1/23,
+659,56.0,AtmoSpark,dilutive,AtmoSpark-dilutive,600000.0,2023-01-19,Eric,CrunchBase,Pre-Seed round  1/1/23,
+660,89.0,Bondwell Technologies,dilutive,Bondwell Technologies-dilutive,450756.0,2024-01-19,Eric,Crunchbase,Seed round 11/15/2023,
+661,108.0,EmGenisys,dilutive,EmGenisys-dilutive,100000.0,2024-01-19,Eric,CrunchBase,Seed round - 3/28/2022,
+662,94.0,HiPR Innovation,dilutive,HiPR Innovation-dilutive,100000.0,2024-01-19,Eric,Crunchbase,Pre Seed round  2/21/2023,
+663,146.0,"Opsin Biotherapeutics, Inc.",non-dilutive,"Opsin Biotherapeutics, Inc.-non-dilutive",327864.0,2024-01-22,Eric,CrunchBase,"7/27/2023  $327,864 Grant from National Institute of Neurological Disorders and Stroke",
+664,10.0,Sano Chemicals,dilutive,Sano Chemicals-dilutive,710000.0,2024-01-22,Eric,CrunchBase,1/8/2024  $710K Venture Round,
+665,99.0,Solenic Medical,dilutive,Solenic Medical-dilutive,5100000.0,2024-01-22,Eric,Crunchbase,6/20/23  $5.1M Series A,
+666,,"Tremedics Medical Devices, INC",non-dilutive,"Tremedics Medical Devices,INC.-non-dilutive",25000.0,2024-01-22,Eric,Crunchbase,$25K prize at Stanford Pediatric Innovation showcase  3/16/2022,
+667,64.0,VenoStent,dilutive,VenoStent-dilutive,16000000.0,2024-01-22,Eric,Crunchbase,7/31/2023  $16M Series A,
+668,102.0,VeraDermics Incorporated,dilutive,VeraDermics Incorporated-dilutive,15000000.0,2024-01-22,Eric,Crunchbase,5/1/23  Venture Round $15MM,
+669,68.0,Yotta Solar,dilutive,Yotta Solar-dilutive,8000000.0,2024-01-22,Eric,Crunchbase,9/19/23  $8M  venture round,

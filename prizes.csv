@@ -1,0 +1,1015 @@
+prize_id,company_id,company,type,auxiliary_column,amount,year,description
+1,3.0,Brevitest Technologies,tnvc_main_cash,Brevitest Technologies-tnvc_main_cash,15000.0,2015.0,4th place
+2,5.0,ECM Technologies,tnvc_elpit_cash,ECM Technologies-tnvc_elpit_cash,5000.0,2015.0,2nd elev. pitch
+3,6.0,Guardian Sensors,tnvc_elpit_cash,Guardian Sensors-tnvc_elpit_cash,10000.0,2015.0,1st elev. pitch
+4,8.0,Noninvasix,tnvc_main_cash,Noninvasix-tnvc_main_cash,50000.0,2015.0,1st place
+5,8.0,Noninvasix,others_cash,Noninvasix-others_cash,50000.0,2015.0,TEFT
+6,10.0,Sano Chemicals,tnvc_main_cash,Sano Chemicals-tnvc_main_cash,10000.0,2015.0,6th place
+7,11.0,Scribesense,tnvc_main_cash,Scribesense-tnvc_main_cash,30000.0,2015.0,2nd place
+8,14.0,TeVido,tnvc_main_cash,TeVido-tnvc_main_cash,10000.0,2015.0,5th place
+9,14.0,TeVido,others_cash,TeVido-others_cash,15000.0,2015.0,TEFT
+10,15.0,Thermal Expansion Solutions (Allvar),tnvc_main_cash,Thermal Expansion Solutions (Allvar)-tnvc_main_cash,20000.0,2015.0,3rd place
+11,15.0,Thermal Expansion Solutions (Allvar),others_cash,Thermal Expansion Solutions (Allvar)-others_cash,30000.0,2015.0,TEFT
+12,21.0,Acoustic Shield,tnvc_elpit_cash,Acoustic Shield-tnvc_elpit_cash,3000.0,2016.0,2nd elev. pitch
+13,22.0,Astrapi,tnvc_elpit_cash,Astrapi-tnvc_elpit_cash,2000.0,2016.0,3rd elev. pitch
+14,23.0,Cartofusion Technologies,tnvc_main_cash,Cartofusion Technologies-tnvc_main_cash,5000.0,2016.0,6th place
+15,5.0,ECM Technologies,tnvc_elpit_cash,ECM Technologies-tnvc_elpit_cash,5000.0,2016.0,1st elev. pitch
+16,28.0,NuPark,tnvc_main_cash,NuPark-tnvc_main_cash,15000.0,2016.0,4th place
+17,29.0,REEcycle,tnvc_main_cash,REEcycle-tnvc_main_cash,50000.0,2016.0,1st place
+18,30.0,Siva Therapeutics,tnvc_main_cash,Siva Therapeutics-tnvc_main_cash,10000.0,2016.0,5th place
+19,32.0,Trifusion/Essentium,tnvc_main_cash,Trifusion/Essentium-tnvc_main_cash,35000.0,2016.0,2nd place
+20,18.0,Voyager Biomedical (Scepter Medical Devices),tnvc_main_cash,Voyager Biomedical (Scepter Medical Devices)-tnvc_main_cash,25000.0,2016.0,3rd place
+21,35.0,Claridge-Culp,others_cash,Claridge-Culp-others_cash,5000.0,2017.0,Cleantech Prize – Wells Fargo/TEES Clean Energy Incubator
+22,35.0,Claridge-Culp,others_inkind,Claridge-Culp-others_inkind,5000.0,2017.0,Cleantech Prize – Wells Fargo/TEES Clean Energy Incubator
+23,36.0,Clear River Enviro,tnvc_main_cash,Clear River Enviro-tnvc_main_cash,15000.0,2017.0,4th place
+24,37.0,Fortis Biosciences,tnvc_main_cash,Fortis Biosciences-tnvc_main_cash,5000.0,2017.0,6th place
+25,37.0,Fortis Biosciences,others_inkind,Fortis Biosciences-others_inkind,5000.0,2017.0,Ramey & Schwaller IP Legal Services Prize
+26,38.0,GuidaBot,tnvc_elpit_cash,GuidaBot-tnvc_elpit_cash,5000.0,2017.0,1st elev. pitch
+27,38.0,GuidaBot,others_inkind,GuidaBot-others_inkind,20000.0,2017.0,TMCX Accelerator admission
+28,39.0,IntuiTap Medical,tnvc_main_cash,IntuiTap Medical-tnvc_main_cash,50000.0,2017.0,1st place
+29,39.0,IntuiTap Medical,others_inkind,IntuiTap Medical-others_inkind,10000.0,2017.0,Biotex Services Prize
+30,42.0,NHC,tnvc_main_cash,NHC-tnvc_main_cash,35000.0,2017.0,2nd place
+31,45.0,Resthetics,tnvc_elpit_cash,Resthetics-tnvc_elpit_cash,2000.0,2017.0,3rd elev. pitch
+32,45.0,Resthetics,others_invest,Resthetics-others_invest,25000.0,2017.0,TMCX investment prize
+33,45.0,Resthetics,others_inkind,Resthetics-others_inkind,20000.0,2017.0,TMCX Accelerator admission
+34,47.0,Sensytec,tnvc_elpit_cash,Sensytec-tnvc_elpit_cash,3000.0,2017.0,2nd elev. pitch
+35,48.0,Shower Stream,tnvc_main_cash,Shower Stream-tnvc_main_cash,35000.0,2017.0,2nd place
+36,48.0,Shower Stream,others_inkind,Shower Stream-others_inkind,12500.0,2017.0,InnovateX/RVF Prize
+37,48.0,Shower Stream,others_invest,Shower Stream-others_invest,12500.0,2017.0,InnovateX/RVF Prize
+38,52.0,Thermascape Technologies,tnvc_main_cash,Thermascape Technologies-tnvc_main_cash,10000.0,2017.0,5th place
+39,52.0,Thermascape Technologies,others_inkind,Thermascape Technologies-others_inkind,5000.0,2017.0,Amerra Visualization Services Prize
+40,52.0,Thermascape Technologies,others_inkind,Thermascape Technologies-others_inkind,10000.0,2017.0,AM Innovation Center Prize
+41,53.0,Admetsys,tnvc_main_cash,Admetsys-tnvc_main_cash,35000.0,2018.0,2nd place
+42,,Advanced Scanners,tnvc_main_cash,Advanced Scanners-tnvc_main_cash,10000.0,2018.0,5th place
+43,,Advanced Scanners,others_inkind,Advanced Scanners-others_inkind,10000.0,2018.0,Ramey Schwaller IP Legal Services
+44,34.0,Alleviant Medical,others_inkind,Alleviant Medical-others_inkind,7500.0,2018.0,Thomas Horstemeyer IP Legal Services
+45,55.0,Arovia,tnvc_main_cash,Arovia-tnvc_main_cash,50000.0,2018.0,1st place
+46,55.0,Arovia,others_inkind,Arovia-others_inkind,5000.0,2018.0,Amerra Visualization
+47,55.0,Arovia,others_invest,Arovia-others_invest,25000.0,2018.0,Aggie Angel Network
+48,55.0,Arovia,others_invest,Arovia-others_invest,30000.0,2018.0,GOOSE Society
+49,56.0,AtmoSpark,tnvc_main_cash,AtmoSpark-tnvc_main_cash,5000.0,2018.0,6th place
+50,57.0,M&S Biotics,tnvc_main_cash,M&S Biotics-tnvc_main_cash,25000.0,2018.0,3rd place
+51,57.0,M&S Biotics,others_inkind,M&S Biotics-others_inkind,10000.0,2018.0,BioTex Services Prize
+52,57.0,M&S Biotics,others_invest,M&S Biotics-others_invest,30000.0,2018.0,GOOSE Society
+53,58.0,Polar Panel,tnvc_elpit_cash,Polar Panel-tnvc_elpit_cash,2000.0,2018.0,3rd elev. pitch
+54,59.0,ResponderX,tnvc_elpit_cash,ResponderX-tnvc_elpit_cash,5000.0,2018.0,1st elev. pitch
+55,59.0,ResponderX,others_cash,ResponderX-others_cash,10000.0,2018.0,RVP Launch
+56,63.0,VastBiome,tnvc_main_cash,VastBiome-tnvc_main_cash,15000.0,2018.0,4th place
+57,64.0,VenoStent,others_inkind,VenoStent-others_inkind,7500.0,2018.0,Thomas Horstemeyer IP Legal Services
+58,64.0,VenoStent,others_inkind,VenoStent-others_inkind,20000.0,2018.0,TMC Innovation
+59,66.0,Vitls,others_inkind,Vitls-others_inkind,10000.0,2018.0,Paragon Innovation Prize
+60,66.0,Vitls,others_invest,Vitls-others_invest,25000.0,2018.0,TMC Innovation
+61,68.0,Yotta Solar,tnvc_elpit_cash,Yotta Solar-tnvc_elpit_cash,3000.0,2018.0,2nd elev. pitch
+62,68.0,Yotta Solar,others_cash,Yotta Solar-others_cash,5000.0,2018.0,TEES Cleantech
+63,68.0,Yotta Solar,others_inkind,Yotta Solar-others_inkind,5000.0,2018.0,TEES Cleantech
+64,71.0,Carbonwire,others_cash,Carbonwire-others_cash,5000.0,2019.0,TEES Cleantech
+65,71.0,Carbonwire,others_inkind,Carbonwire-others_inkind,5000.0,2019.0,TEES Cleantech
+66,72.0,EM Device Lab,tnvc_elpit_cash,EM Device Lab-tnvc_elpit_cash,1000.0,2019.0,5th elev. pitch
+67,72.0,EM Device Lab,others_cash,EM Device Lab-others_cash,25000.0,2019.0,Southwest National Pediatric Devices Consortium
+68,73.0,GaitIQ,others_inkind,GaitIQ-others_inkind,25000.0,2019.0,TMC Accelerator
+69,73.0,GaitIQ,others_inkind,GaitIQ-others_inkind,10000.0,2019.0,Schwegman Lundberg and Woessner IP Legal Services
+70,73.0,GaitIQ,others_inkind,GaitIQ-others_inkind,10000.0,2019.0,Hollinden Marketing
+71,73.0,GaitIQ,others_cash,GaitIQ-others_cash,10000.0,2019.0,Ark Pharmacies
+72,73.0,GaitIQ,tnvc_main_cash,GaitIQ-tnvc_main_cash,5000.0,2019.0,6th place
+73,76.0,Ictero Medical,others_invest,Ictero Medical-others_invest,25000.0,2019.0,TMC Investment +Accelerator
+74,76.0,Ictero Medical,others_inkind,Ictero Medical-others_inkind,10000.0,2019.0,TEES Engineering Innovation
+75,76.0,Ictero Medical,others_inkind,Ictero Medical-others_inkind,10000.0,2019.0,Thomas Horstemeyer
+76,77.0,Immosis,tnvc_elpit_cash,Immosis-tnvc_elpit_cash,2000.0,2019.0,4th elev. pitch
+77,78.0,Intelligent Implants,tnvc_main_cash,Intelligent Implants-tnvc_main_cash,25000.0,2019.0,3rd place
+78,79.0,NovoThelium,tnvc_elpit_cash,NovoThelium-tnvc_elpit_cash,3000.0,2019.0,3rd elev. pitch
+79,80.0,PolyVascular,tnvc_elpit_cash,PolyVascular-tnvc_elpit_cash,5000.0,2019.0,1st elev. pitch
+80,80.0,PolyVascular,others_invest,PolyVascular-others_invest,25000.0,2019.0,Goose Investment
+81,80.0,PolyVascular,others_inkind,PolyVascular-others_inkind,10000.0,2019.0,Amerra Visualization
+82,80.0,PolyVascular,others_inkind,PolyVascular-others_inkind,10000.0,2019.0,BioTex Services Prize
+83,61.0,SABER Corportation,tnvc_elpit_cash,SABER Corportation-tnvc_elpit_cash,4000.0,2019.0,2nd elev. pitch
+84,61.0,SABER Corportation,others_cash,SABER Corportation-others_cash,10000.0,2019.0,BVEDC Launch
+85,81.0,Spark Biomedical,tnvc_main_cash,Spark Biomedical-tnvc_main_cash,50000.0,2019.0,1st place
+86,81.0,Spark Biomedical,others_cash,Spark Biomedical-others_cash,25000.0,2019.0,Southwest National Pediatric Devices Consortium
+87,81.0,Spark Biomedical,others_invest,Spark Biomedical-others_invest,30000.0,2019.0,Aggie Angel Network
+88,82.0,Sun Co. Tracking,others_inkind,Sun Co. Tracking-others_inkind,10000.0,2019.0,TEES Engineering Innovation
+89,83.0,SurfEllent,tnvc_main_cash,SurfEllent-tnvc_main_cash,35000.0,2019.0,2nd place
+90,83.0,SurfEllent,others_inkind,SurfEllent-others_inkind,10000.0,2019.0,TEEX PDC
+91,84.0,Teysha Technologies,tnvc_main_cash,Teysha Technologies-tnvc_main_cash,15000.0,2019.0,4th place
+92,84.0,Teysha Technologies,others_inkind,Teysha Technologies-others_inkind,10000.0,2019.0,Thomas Horstemeyer
+93,85.0,Toggle Health,others_inkind,Toggle Health-others_inkind,10000.0,2019.0,Paragon Innovations
+94,64.0,VenoStent,tnvc_main_cash,VenoStent-tnvc_main_cash,10000.0,2019.0,5th place
+95,64.0,VenoStent,others_inkind,VenoStent-others_inkind,10000.0,2019.0,Ramey & Schwaller
+96,86.0,Allosense,tnvc_elpit_cash,Allosense-tnvc_elpit_cash,3000.0,2020.0,Elevator Pitch 3rd place
+97,86.0,Allosense,others_inkind,Allosense-others_inkind,10000.0,2020.0,Paragon Innovations
+98,87.0,Allotrope Medical,tnvc_main_cash,Allotrope Medical-tnvc_main_cash,50000.0,2020.0,1st place
+99,87.0,Allotrope Medical,others_invest,Allotrope Medical-others_invest,80000.0,2020.0,Aggie Angel Network
+100,,Bezoar Laboratories,tnvc_main_cash,Bezoar Laboratories-tnvc_main_cash,15000.0,2020.0,4th place
+101,,Bezoar Laboratories,others_cash,Bezoar Laboratories-others_cash,10000.0,2020.0,BVEDC Launch
+102,,Bezoar Laboratories,others_inkind,Bezoar Laboratories-others_inkind,10000.0,2020.0,Axle-Box Services 
+103,89.0,Bondwell Technologies,tnvc_main_cash,Bondwell Technologies-tnvc_main_cash,10000.0,2020.0,5th place
+104,72.0,EM Device Lab,others_inkind,EM Device Lab-others_inkind,10000.0,2020.0,Amerra 
+105,72.0,EM Device Lab,others_inkind,EM Device Lab-others_inkind,10000.0,2020.0,BioTex Services Prize
+106,90.0,Endpoint Security,others_inkind,Endpoint Security-others_inkind,10000.0,2020.0,Innovators Legal
+107,93.0,Feel the Color,tnvc_elpit_cash,Feel the Color-tnvc_elpit_cash,2000.0,2020.0,Elevator Pitch 4th place
+108,94.0,HiPR Innovation,tnvc_elpit_cash,HiPR Innovation-tnvc_elpit_cash,1000.0,2020.0,Elevator Pitch 5th place
+109,94.0,HiPR Innovation,others_cash,HiPR Innovation-others_cash,25000.0,2020.0,Southwest National Pediatric Devices Consortium
+110,95.0,Intelligent Nanofiber,tnvc_main_cash,Intelligent Nanofiber-tnvc_main_cash,5000.0,2020.0,6th place
+111,79.0,NovoThelium,tnvc_elpit_cash,NovoThelium-tnvc_elpit_cash,4000.0,2020.0,Elevator Pitch 2nd place
+112,79.0,NovoThelium,others_inkind,NovoThelium-others_inkind,10000.0,2020.0,Hollinden Marketing
+113,80.0,PolyVascular,tnvc_main_cash,PolyVascular-tnvc_main_cash,25000.0,2020.0,3rd place
+114,80.0,PolyVascular,others_inkind,PolyVascular-others_inkind,10000.0,2020.0,Hollinden Marketing
+115,80.0,PolyVascular,others_inkind,PolyVascular-others_inkind,10000.0,2020.0,Innovators Legal
+116,47.0,Sensytec,tnvc_main_cash,Sensytec-tnvc_main_cash,35000.0,2020.0,2nd place
+117,47.0,Sensytec,others_inkind,Sensytec-others_inkind,10000.0,2020.0,Axle-Box Services 
+118,47.0,Sensytec,others_inkind,Sensytec-others_inkind,10000.0,2020.0,Thomas Horstemeyer IP Legal Services
+119,100.0,TexPower,others_inkind,TexPower-others_inkind,10000.0,2020.0,Schwegman Lundberg and Woessner IP Legal Services
+120,102.0,VeraDermics Incorporated,tnvc_elpit_cash,VeraDermics Incorporated-tnvc_elpit_cash,5000.0,2020.0,Elevator Pitch 1st place 
+121,102.0,VeraDermics Incorporated,others_cash,VeraDermics Incorporated-others_cash,25000.0,2020.0,Southwest National Pediatric Devices Consortium
+122,103.0,Xebec,others_inkind,Xebec-others_inkind,10000.0,2020.0,Thomas Horstemeyer IP Legal Services
+123,119.0,Starling Medical,tnvc_main_cash,Starling Medical-tnvc_main_cash,50000.0,2021.0,1st place
+124,76.0,Ictero Medical,tnvc_main_cash,Ictero Medical-tnvc_main_cash,35000.0,2021.0,2nd place
+125,113.0,Koda Health,tnvc_main_cash,Koda Health-tnvc_main_cash,25000.0,2021.0,3rd place
+126,,Microsilicon,tnvc_main_cash,Microsilicon-tnvc_main_cash,15000.0,2021.0,4th place
+127,122.0,Vitanova Biomedical,tnvc_main_cash,Vitanova Biomedical-tnvc_main_cash,10000.0,2021.0,5th place
+128,,CodeWalker,tnvc_main_cash,CodeWalker-tnvc_main_cash,5000.0,2021.0,6th place
+129,,EmGenysis,tnvc_elpit_cash,EmGenysis-tnvc_elpit_cash,5000.0,2021.0,1st elev. pitch
+130,,SkyPaws,tnvc_elpit_cash,SkyPaws-tnvc_elpit_cash,3000.0,2021.0,2nd elev. pitch
+131,99.0,Solenic Medical,tnvc_elpit_cash,Solenic Medical-tnvc_elpit_cash,2000.0,2021.0,3rd elev. pitch
+132,121.0,TYBR Health,tnvc_elpit_cash,TYBR Health-tnvc_elpit_cash,1000.0,2021.0,4th elev. pitch
+133,,HERO Medical,others_cash,HERO Medical-others_cash,25000.0,2021.0,SWPDC prize
+134,99.0,Solenic Medical,others_cash,Solenic Medical-others_cash,25000.0,2021.0,SWPDC prize
+135,122.0,Vitanova Biomedical,others_invest,Vitanova Biomedical-others_invest,125000.0,2021.0,AAN Investment prize
+136,,Microsilicon,others_inkind,Microsilicon-others_inkind,10000.0,2021.0,Innovators Legal prize
+137,122.0,Vitanova Biomedical,others_inkind,Vitanova Biomedical-others_inkind,10000.0,2021.0,Innovators Legal prize
+138,141.0,DrillDocs,others_inkind,DrillDocs-others_inkind,10000.0,2021.0,Paragon Innovations prize
+139,99.0,Solenic Medical,others_inkind,Solenic Medical-others_inkind,10000.0,2021.0,Paragon Innovations prize
+140,121.0,TYBR Health,others_inkind,TYBR Health-others_inkind,10000.0,2021.0,Amerra Visualization services prize
+141,120.0,TEZCAT Laboratories,others_inkind,TEZCAT Laboratories-others_inkind,10000.0,2021.0,SLW services prize
+142,121.0,TYBR Health,others_inkind,TYBR Health-others_inkind,10000.0,2021.0,Hollinden services prize
+143,76.0,Ictero Medical,others_inkind,Ictero Medical-others_inkind,10000.0,2021.0,Biotex services prize
+144,105.0,AVA Propulsion,others_inkind,AVA Propulsion-others_inkind,10000.0,2021.0,Axle-Box services prize
+145,,SkyPaws,others_inkind,SkyPaws-others_inkind,10000.0,2021.0,Axle-Box services prize
+146,,HelioWAVE Technologies,others_cash,HelioWAVE Technologies-others_cash,10000.0,2021.0,BVEDC Launch prize
+147,113.0,Koda Health,others_inkind,Koda Health-others_inkind,25000.0,2021.0,pH Partners Services Prize
+148,119.0,Starling Medical,others_inkind,Starling Medical-others_inkind,25000.0,2021.0,pH Partners Services Prize
+149,116.0,RiverWalk Therapeutics,others_inkind,RiverWalk Therapeutics-others_inkind,10000.0,2021.0,West Webb Albritton and Gentry
+150,130.0,FluxWorks,tnvc_main_cash,FluxWorks-tnvc_main_cash,35000.0,2022.0,1st place
+151,134.0,"SolGro, Inc.",tnvc_main_cash,"SolGro, Inc.-tnvc_main_cash",20000.0,2022.0,2nd place
+152,138.0,XN Health Inc,tnvc_main_cash,XN Health Inc-tnvc_main_cash,15000.0,2022.0,3rd place
+153,128.0,Dynamic Light,tnvc_main_cash,Dynamic Light-tnvc_main_cash,10000.0,2022.0,4th place
+154,133.0,Revolution Turbine Technologies,tnvc_main_cash,Revolution Turbine Technologies-tnvc_main_cash,8000.0,2022.0,5th place
+155,108.0,EmGenisys,tnvc_main_cash,EmGenisys-tnvc_main_cash,4000.0,2022.0,6th place
+156,131.0,Longhorn Life Sciences,tnvc_elpit_cash,Longhorn Life Sciences-tnvc_elpit_cash,5000.0,2022.0,1st elev. pitch
+157,110.0,HERO Medical Technologies,tnvc_elpit_cash,HERO Medical Technologies-tnvc_elpit_cash,4000.0,2022.0,2nd elev. pitch
+158,129.0,Endpoint Security Inc,tnvc_elpit_cash,Endpoint Security Inc-tnvc_elpit_cash,3000.0,2022.0,3rd elev. pitch
+159,137.0,"Vaccine Systems, LLC",tnvc_elpit_cash,"Vaccine Systems, LLC-tnvc_elpit_cash",1500.0,2022.0,4th elev. pitch
+160,121.0,TYBR Health,tnvc_elpit_cash,TYBR Health-tnvc_elpit_cash,500.0,2022.0,5th elev. pitch
+161,138.0,XN Health Inc,others_invest,XN Health Inc-others_invest,50000.0,2022.0,AAN Investment prize
+162,128.0,Dynamic Light,others_invest,,50000.0,2022.0,AAN Investment prize
+163,130.0,FluxWorks,others_cash,FluxWorks-others_cash,10000.0,2022.0,BVEDC Launch
+164,130.0,FluxWorks,others_inkind,FluxWorks-others_inkind,10000.0,2022.0,Aggieland Business Park Prize
+165,138.0,XN Health Inc,others_inkind,XN Health Inc-others_inkind,50000.0,2022.0,pH Partners
+166,138.0,XN Health Inc,others_cash,XN Health Inc-others_cash,25000.0,2022.0,SWPDC prize
+167,,"Tremedics Medical Devices, INC",others_cash,,25000.0,2022.0,SWPDC prize
+168,131.0,Longhorn Life Sciences,others_inkind,Longhorn Life Sciences-others_inkind,10000.0,2022.0,Amerra Visualization services prize
+169,128.0,Dynamic Light,others_inkind,Dynamic Light-others_inkind,10000.0,2022.0,BioTex
+170,131.0,Longhorn Life Sciences,others_inkind,Longhorn Life Sciences-others_inkind,10000.0,2022.0,TAMU Health
+171,130.0,FluxWorks,others_inkind,FluxWorks-others_inkind,10000.0,2022.0,Knobbe Martens
+172,138.0,XN Health Inc,others_inkind,XN Health Inc-others_inkind,10000.0,2022.0,Paragon Innovations
+173,138.0,XN Health Inc,others_inkind,XN Health Inc-others_inkind,10000.0,2022.0,Proxima
+174,123.0,"Alt-Bionics, Inc",others_inkind,"Alt-Bionics, Inc-others_inkind",10000.0,2022.0,SLW
+175,138.0,XN Health Inc,others_inkind,,10000.0,2022.0,SLW
+176,130.0,FluxWorks,others_inkind,FluxWorks-others_inkind,10000.0,2022.0,Stibbs & Co
+177,138.0,XN Health Inc,others_cash,XN Health Inc-others_cash,18000.0,2022.0,Winners' Circle
+178,130.0,FluxWorks,others_inkind,FluxWorks-others_inkind,18000.0,2022.0,Versa
+179,128.0,Dynamic Light,others_inkind,Dynamic Light-others_inkind,12000.0,2022.0,Versa
+180,108.0,EmGenisys,others_inkind,EmGenisys-others_inkind,10000.0,2022.0,Winstead
+181,139.0,Corveus Medical,tnvc_main_cash,Corveus Medical-tnvc_main_cash,35000.0,2023.0,1st place
+182,107.0,DrillDocs Company,tnvc_main_cash,DrillDocs Company-tnvc_main_cash,20000.0,2023.0,2nd place
+183,154.0,"Waltech International, Inc. ",tnvc_main_cash,"Waltech International, Inc. -tnvc_main_cash",15000.0,2023.0,3rd place
+184,142.0,Ember Sleep,tnvc_main_cash,Ember Sleep-tnvc_main_cash,10000.0,2023.0,4th place
+185,,NeuraStasis,tnvc_main_cash,NeuraStasis-tnvc_main_cash,8000.0,2023.0,5th place
+186,,"Opsin Biopharmaceuticals, Inc",tnvc_main_cash,"Opsin Biopharmaceuticals, Inc-tnvc_main_cash",4000.0,2023.0,6th place
+187,151.0,"SageSpectra, Inc.",tnvc_elpit_cash,"SageSpectra, Inc.-tnvc_elpit_cash",5000.0,2023.0,1st elev. pitch
+188,147.0,Pike Robotics,tnvc_elpit_cash,Pike Robotics-tnvc_elpit_cash,4000.0,2023.0,2nd elev. pitch
+189,152.0,Taurus Vascular,tnvc_elpit_cash,Taurus Vascular-tnvc_elpit_cash,3000.0,2023.0,3rd elev. pitch
+190,149.0,"Predyct, Inc.",tnvc_elpit_cash,"Predyct, Inc.-tnvc_elpit_cash",1500.0,2023.0,4th elev. pitch
+191,140.0,CryoDesalination LLC,tnvc_elpit_cash,CryoDesalination LLC-tnvc_elpit_cash,500.0,2023.0,5th elev. pitch
+192,,NeuraStasis,others_invest,NeuraStasis-others_invest,50000.0,2023.0,AAN Investment prize
+193,,"Opsin Biopharmaceuticals, Inc",others_cash,"Opsin Biopharmaceuticals, Inc-others_cash",15000.0,2023.0,UNT HSC Accelerator
+194,143.0,HPTechAi LLC,others_cash,HPTechAi LLC-others_cash,15000.0,2023.0,BVEDC Launch
+195,149.0,"Predyct, Inc.",others_invest,,150000.0,2023.0,Capital Factory
+196,154.0,"Waltech International, Inc. ",others_cash,"Waltech International, Inc. -others_cash",25000.0,2023.0,Seed Round Prize
+197,142.0,Ember Sleep,others_cash,Ember Sleep-others_cash,50000.0,2023.0,SWPDC prize
+198,,NeuraStasis,others_cash,NeuraStasis-others_cash,50000.0,2023.0,SWPDC prize
+199,,"Opsin Biopharmaceuticals, Inc",others_inkind,"Opsin Biopharmaceuticals, Inc-others_inkind",15000.0,2023.0,Amerra Visualization services prize
+200,152.0,Taurus Vascular,others_inkind,Taurus Vascular-others_inkind,10000.0,2023.0,BioTex
+201,152.0,Taurus Vascular,others_inkind,Taurus Vascular-others_inkind,10000.0,2023.0,Knobbe Martens
+202,151.0,"SageSpectra, Inc.",others_inkind,"SageSpectra, Inc.-others_inkind",10000.0,2023.0,Paragon Innovations
+203,142.0,Ember Sleep,others_inkind,Ember Sleep-others_inkind,10000.0,2023.0,SLW
+204,,NeuraStasis,others_inkind,NeuraStasis-others_inkind,10000.0,2023.0,SLW
+205,143.0,HPTechAi LLC,others_inkind,HPTechAi LLC-others_inkind,10000.0,2023.0,Stibbs & Co
+206,144.0,Luci,others_cash,Luci-others_cash,11500.0,2023.0,Winners' Circle
+207,147.0,Pike Robotics,others_inkind,Pike Robotics-others_inkind,20000.0,2023.0,Versa
+208,151.0,"SageSpectra, Inc.",others_inkind,"SageSpectra, Inc.-others_inkind",10000.0,2023.0,Munck Wilson Mandela
+209,139.0,Corveus Medical,others_inkind,Corveus Medical-others_inkind,10000.0,2023.0,Winstead
+210,,,,-,,,
+211,,,,-,,,
+212,,,,-,,,
+213,,,,-,,,
+214,,,,-,,,
+215,,,,-,,,
+216,,,,-,,,
+217,,,,-,,,
+218,,,,-,,,
+219,,,,-,,,
+220,,,,-,,,
+221,,,,-,,,
+222,,,,-,,,
+223,,,,-,,,
+224,,,,-,,,
+225,,,,-,,,
+226,,,,-,,,
+227,,,,-,,,
+228,,,,-,,,
+229,,,,-,,,
+230,,,,-,,,
+231,,,,-,,,
+232,,,,-,,,
+233,,,,-,,,
+234,,,,-,,,
+235,,,,-,,,
+236,,,,-,,,
+237,,,,-,,,
+238,,,,-,,,
+239,,,,-,,,
+240,,,,-,,,
+241,,,,-,,,
+242,,,,-,,,
+243,,,,-,,,
+244,,,,-,,,
+245,,,,-,,,
+246,,,,-,,,
+247,,,,-,,,
+248,,,,-,,,
+249,,,,-,,,
+250,,,,-,,,
+251,,,,-,,,
+252,,,,-,,,
+253,,,,-,,,
+254,,,,-,,,
+255,,,,-,,,
+256,,,,-,,,
+257,,,,-,,,
+258,,,,-,,,
+259,,,,-,,,
+260,,,,-,,,
+261,,,,-,,,
+262,,,,-,,,
+263,,,,-,,,
+264,,,,-,,,
+265,,,,-,,,
+266,,,,-,,,
+267,,,,-,,,
+268,,,,-,,,
+269,,,,-,,,
+270,,,,-,,,
+271,,,,-,,,
+272,,,,-,,,
+273,,,,-,,,
+274,,,,-,,,
+275,,,,-,,,
+276,,,,-,,,
+277,,,,-,,,
+278,,,,-,,,
+279,,,,-,,,
+280,,,,-,,,
+281,,,,-,,,
+282,,,,-,,,
+283,,,,-,,,
+284,,,,-,,,
+285,,,,-,,,
+286,,,,-,,,
+287,,,,-,,,
+288,,,,-,,,
+289,,,,-,,,
+290,,,,-,,,
+291,,,,-,,,
+292,,,,-,,,
+293,,,,-,,,
+294,,,,-,,,
+295,,,,-,,,
+296,,,,-,,,
+297,,,,-,,,
+298,,,,-,,,
+299,,,,-,,,
+300,,,,-,,,
+301,,,,-,,,
+302,,,,-,,,
+303,,,,-,,,
+304,,,,-,,,
+305,,,,-,,,
+306,,,,-,,,
+307,,,,-,,,
+308,,,,-,,,
+309,,,,-,,,
+310,,,,-,,,
+311,,,,-,,,
+312,,,,-,,,
+313,,,,-,,,
+314,,,,-,,,
+315,,,,-,,,
+316,,,,-,,,
+317,,,,-,,,
+318,,,,-,,,
+319,,,,-,,,
+320,,,,-,,,
+321,,,,-,,,
+322,,,,-,,,
+323,,,,-,,,
+324,,,,-,,,
+325,,,,-,,,
+326,,,,-,,,
+327,,,,-,,,
+328,,,,-,,,
+329,,,,-,,,
+330,,,,-,,,
+331,,,,-,,,
+332,,,,-,,,
+333,,,,-,,,
+334,,,,-,,,
+335,,,,-,,,
+336,,,,-,,,
+337,,,,-,,,
+338,,,,-,,,
+339,,,,-,,,
+340,,,,-,,,
+341,,,,-,,,
+342,,,,-,,,
+343,,,,-,,,
+344,,,,-,,,
+345,,,,-,,,
+346,,,,-,,,
+347,,,,-,,,
+348,,,,-,,,
+349,,,,-,,,
+350,,,,-,,,
+351,,,,-,,,
+352,,,,-,,,
+353,,,,-,,,
+354,,,,-,,,
+355,,,,-,,,
+356,,,,-,,,
+357,,,,-,,,
+358,,,,-,,,
+359,,,,-,,,
+360,,,,-,,,
+361,,,,-,,,
+362,,,,-,,,
+363,,,,-,,,
+364,,,,-,,,
+365,,,,-,,,
+366,,,,-,,,
+367,,,,-,,,
+368,,,,-,,,
+369,,,,-,,,
+370,,,,-,,,
+371,,,,-,,,
+372,,,,-,,,
+373,,,,-,,,
+374,,,,-,,,
+375,,,,-,,,
+376,,,,-,,,
+377,,,,-,,,
+378,,,,-,,,
+379,,,,-,,,
+380,,,,-,,,
+381,,,,-,,,
+382,,,,-,,,
+383,,,,-,,,
+384,,,,-,,,
+385,,,,-,,,
+386,,,,-,,,
+387,,,,-,,,
+388,,,,-,,,
+389,,,,-,,,
+390,,,,-,,,
+391,,,,-,,,
+392,,,,-,,,
+393,,,,-,,,
+394,,,,-,,,
+395,,,,-,,,
+396,,,,-,,,
+397,,,,-,,,
+398,,,,-,,,
+399,,,,-,,,
+400,,,,-,,,
+401,,,,-,,,
+402,,,,-,,,
+403,,,,-,,,
+404,,,,-,,,
+405,,,,-,,,
+406,,,,-,,,
+407,,,,-,,,
+408,,,,-,,,
+409,,,,-,,,
+410,,,,-,,,
+411,,,,-,,,
+412,,,,-,,,
+413,,,,-,,,
+414,,,,-,,,
+415,,,,-,,,
+416,,,,-,,,
+417,,,,-,,,
+418,,,,-,,,
+419,,,,-,,,
+420,,,,-,,,
+421,,,,-,,,
+422,,,,-,,,
+423,,,,-,,,
+424,,,,-,,,
+425,,,,-,,,
+426,,,,-,,,
+427,,,,-,,,
+428,,,,-,,,
+429,,,,-,,,
+430,,,,-,,,
+431,,,,-,,,
+432,,,,-,,,
+433,,,,-,,,
+434,,,,-,,,
+435,,,,-,,,
+436,,,,-,,,
+437,,,,-,,,
+438,,,,-,,,
+439,,,,-,,,
+440,,,,-,,,
+441,,,,-,,,
+442,,,,-,,,
+443,,,,-,,,
+444,,,,-,,,
+445,,,,-,,,
+446,,,,-,,,
+447,,,,-,,,
+448,,,,-,,,
+449,,,,-,,,
+450,,,,-,,,
+451,,,,-,,,
+452,,,,-,,,
+453,,,,-,,,
+454,,,,-,,,
+455,,,,-,,,
+456,,,,-,,,
+457,,,,-,,,
+458,,,,-,,,
+459,,,,-,,,
+460,,,,-,,,
+461,,,,-,,,
+462,,,,-,,,
+463,,,,-,,,
+464,,,,-,,,
+465,,,,-,,,
+466,,,,-,,,
+467,,,,-,,,
+468,,,,-,,,
+469,,,,-,,,
+470,,,,-,,,
+471,,,,-,,,
+472,,,,-,,,
+473,,,,-,,,
+474,,,,-,,,
+475,,,,-,,,
+476,,,,-,,,
+477,,,,-,,,
+478,,,,-,,,
+479,,,,-,,,
+480,,,,-,,,
+481,,,,-,,,
+482,,,,-,,,
+483,,,,-,,,
+484,,,,-,,,
+485,,,,-,,,
+486,,,,-,,,
+487,,,,-,,,
+488,,,,-,,,
+489,,,,-,,,
+490,,,,-,,,
+491,,,,-,,,
+492,,,,-,,,
+493,,,,-,,,
+494,,,,-,,,
+495,,,,-,,,
+496,,,,-,,,
+497,,,,-,,,
+498,,,,-,,,
+499,,,,-,,,
+500,,,,-,,,
+501,,,,-,,,
+502,,,,-,,,
+503,,,,-,,,
+504,,,,-,,,
+505,,,,-,,,
+506,,,,-,,,
+507,,,,-,,,
+508,,,,-,,,
+509,,,,-,,,
+510,,,,-,,,
+511,,,,-,,,
+512,,,,-,,,
+513,,,,-,,,
+514,,,,-,,,
+515,,,,-,,,
+516,,,,-,,,
+517,,,,-,,,
+518,,,,-,,,
+519,,,,-,,,
+520,,,,-,,,
+521,,,,-,,,
+522,,,,-,,,
+523,,,,-,,,
+524,,,,-,,,
+525,,,,-,,,
+526,,,,-,,,
+527,,,,-,,,
+528,,,,-,,,
+529,,,,-,,,
+530,,,,-,,,
+531,,,,-,,,
+532,,,,-,,,
+533,,,,-,,,
+534,,,,-,,,
+535,,,,-,,,
+536,,,,-,,,
+537,,,,-,,,
+538,,,,-,,,
+539,,,,-,,,
+540,,,,-,,,
+541,,,,-,,,
+542,,,,-,,,
+543,,,,-,,,
+544,,,,-,,,
+545,,,,-,,,
+546,,,,-,,,
+547,,,,-,,,
+548,,,,-,,,
+549,,,,-,,,
+550,,,,-,,,
+551,,,,-,,,
+552,,,,-,,,
+553,,,,-,,,
+554,,,,-,,,
+555,,,,-,,,
+556,,,,-,,,
+557,,,,-,,,
+558,,,,-,,,
+559,,,,-,,,
+560,,,,-,,,
+561,,,,-,,,
+562,,,,-,,,
+563,,,,-,,,
+564,,,,-,,,
+565,,,,-,,,
+566,,,,-,,,
+567,,,,-,,,
+568,,,,-,,,
+569,,,,-,,,
+570,,,,-,,,
+571,,,,-,,,
+572,,,,-,,,
+573,,,,-,,,
+574,,,,-,,,
+575,,,,-,,,
+576,,,,-,,,
+577,,,,-,,,
+578,,,,-,,,
+579,,,,-,,,
+580,,,,-,,,
+581,,,,-,,,
+582,,,,-,,,
+583,,,,-,,,
+584,,,,-,,,
+585,,,,-,,,
+586,,,,-,,,
+587,,,,-,,,
+588,,,,-,,,
+589,,,,-,,,
+590,,,,-,,,
+591,,,,-,,,
+592,,,,-,,,
+593,,,,-,,,
+594,,,,-,,,
+595,,,,-,,,
+596,,,,-,,,
+597,,,,-,,,
+598,,,,-,,,
+599,,,,-,,,
+600,,,,-,,,
+601,,,,-,,,
+602,,,,-,,,
+603,,,,-,,,
+604,,,,-,,,
+605,,,,-,,,
+606,,,,-,,,
+607,,,,-,,,
+608,,,,-,,,
+609,,,,-,,,
+610,,,,-,,,
+611,,,,-,,,
+612,,,,-,,,
+613,,,,-,,,
+614,,,,-,,,
+615,,,,-,,,
+616,,,,-,,,
+617,,,,-,,,
+618,,,,-,,,
+619,,,,-,,,
+620,,,,-,,,
+621,,,,-,,,
+622,,,,-,,,
+623,,,,-,,,
+624,,,,-,,,
+625,,,,-,,,
+626,,,,-,,,
+627,,,,-,,,
+628,,,,-,,,
+629,,,,-,,,
+630,,,,-,,,
+631,,,,-,,,
+632,,,,-,,,
+633,,,,-,,,
+634,,,,-,,,
+635,,,,-,,,
+636,,,,-,,,
+637,,,,-,,,
+638,,,,-,,,
+639,,,,-,,,
+640,,,,-,,,
+641,,,,-,,,
+642,,,,-,,,
+643,,,,-,,,
+644,,,,-,,,
+645,,,,-,,,
+646,,,,-,,,
+647,,,,-,,,
+648,,,,-,,,
+649,,,,-,,,
+650,,,,-,,,
+651,,,,-,,,
+652,,,,-,,,
+653,,,,-,,,
+654,,,,-,,,
+655,,,,-,,,
+656,,,,-,,,
+657,,,,-,,,
+658,,,,-,,,
+659,,,,-,,,
+660,,,,-,,,
+661,,,,-,,,
+662,,,,-,,,
+663,,,,-,,,
+664,,,,-,,,
+665,,,,-,,,
+666,,,,-,,,
+667,,,,-,,,
+668,,,,-,,,
+669,,,,-,,,
+670,,,,-,,,
+671,,,,-,,,
+672,,,,-,,,
+673,,,,-,,,
+674,,,,-,,,
+675,,,,-,,,
+676,,,,-,,,
+677,,,,-,,,
+678,,,,-,,,
+679,,,,-,,,
+680,,,,-,,,
+681,,,,-,,,
+682,,,,-,,,
+683,,,,-,,,
+684,,,,-,,,
+685,,,,-,,,
+686,,,,-,,,
+687,,,,-,,,
+688,,,,-,,,
+689,,,,-,,,
+690,,,,-,,,
+691,,,,-,,,
+692,,,,-,,,
+693,,,,-,,,
+694,,,,-,,,
+695,,,,-,,,
+696,,,,-,,,
+697,,,,-,,,
+698,,,,-,,,
+699,,,,-,,,
+700,,,,-,,,
+701,,,,-,,,
+702,,,,-,,,
+703,,,,-,,,
+704,,,,-,,,
+705,,,,-,,,
+706,,,,-,,,
+707,,,,-,,,
+708,,,,-,,,
+709,,,,-,,,
+710,,,,-,,,
+711,,,,-,,,
+712,,,,-,,,
+713,,,,-,,,
+714,,,,-,,,
+715,,,,-,,,
+716,,,,-,,,
+717,,,,-,,,
+718,,,,-,,,
+719,,,,-,,,
+720,,,,-,,,
+721,,,,-,,,
+722,,,,-,,,
+723,,,,-,,,
+724,,,,-,,,
+725,,,,-,,,
+726,,,,-,,,
+727,,,,-,,,
+728,,,,-,,,
+729,,,,-,,,
+730,,,,-,,,
+731,,,,-,,,
+732,,,,-,,,
+733,,,,-,,,
+734,,,,-,,,
+735,,,,-,,,
+736,,,,-,,,
+737,,,,-,,,
+738,,,,-,,,
+739,,,,-,,,
+740,,,,-,,,
+741,,,,-,,,
+742,,,,-,,,
+743,,,,-,,,
+744,,,,-,,,
+745,,,,-,,,
+746,,,,-,,,
+747,,,,-,,,
+748,,,,-,,,
+749,,,,-,,,
+750,,,,-,,,
+751,,,,-,,,
+752,,,,-,,,
+753,,,,-,,,
+754,,,,-,,,
+755,,,,-,,,
+756,,,,-,,,
+757,,,,-,,,
+758,,,,-,,,
+759,,,,-,,,
+760,,,,-,,,
+761,,,,-,,,
+762,,,,-,,,
+763,,,,-,,,
+764,,,,-,,,
+765,,,,-,,,
+766,,,,-,,,
+767,,,,-,,,
+768,,,,-,,,
+769,,,,-,,,
+770,,,,-,,,
+771,,,,-,,,
+772,,,,-,,,
+773,,,,-,,,
+774,,,,-,,,
+775,,,,-,,,
+776,,,,-,,,
+777,,,,-,,,
+778,,,,-,,,
+779,,,,-,,,
+780,,,,-,,,
+781,,,,-,,,
+782,,,,-,,,
+783,,,,-,,,
+784,,,,-,,,
+785,,,,-,,,
+786,,,,-,,,
+787,,,,-,,,
+788,,,,-,,,
+789,,,,-,,,
+790,,,,-,,,
+791,,,,-,,,
+792,,,,-,,,
+793,,,,-,,,
+794,,,,-,,,
+795,,,,-,,,
+796,,,,-,,,
+797,,,,-,,,
+798,,,,-,,,
+799,,,,-,,,
+800,,,,-,,,
+801,,,,-,,,
+802,,,,-,,,
+803,,,,-,,,
+804,,,,-,,,
+805,,,,-,,,
+806,,,,-,,,
+807,,,,-,,,
+808,,,,-,,,
+809,,,,-,,,
+810,,,,-,,,
+811,,,,-,,,
+812,,,,-,,,
+813,,,,-,,,
+814,,,,-,,,
+815,,,,-,,,
+816,,,,-,,,
+817,,,,-,,,
+818,,,,-,,,
+819,,,,-,,,
+820,,,,-,,,
+821,,,,-,,,
+822,,,,-,,,
+823,,,,-,,,
+824,,,,-,,,
+825,,,,-,,,
+826,,,,-,,,
+827,,,,-,,,
+828,,,,-,,,
+829,,,,-,,,
+830,,,,-,,,
+831,,,,-,,,
+832,,,,-,,,
+833,,,,-,,,
+834,,,,-,,,
+835,,,,-,,,
+836,,,,-,,,
+837,,,,-,,,
+838,,,,-,,,
+839,,,,-,,,
+840,,,,-,,,
+841,,,,-,,,
+842,,,,-,,,
+843,,,,-,,,
+844,,,,-,,,
+845,,,,-,,,
+846,,,,-,,,
+847,,,,-,,,
+848,,,,-,,,
+849,,,,-,,,
+850,,,,-,,,
+851,,,,-,,,
+852,,,,-,,,
+853,,,,-,,,
+854,,,,-,,,
+855,,,,-,,,
+856,,,,-,,,
+857,,,,-,,,
+858,,,,-,,,
+859,,,,-,,,
+860,,,,-,,,
+861,,,,-,,,
+862,,,,-,,,
+863,,,,-,,,
+864,,,,-,,,
+865,,,,-,,,
+866,,,,-,,,
+867,,,,-,,,
+868,,,,-,,,
+869,,,,-,,,
+870,,,,-,,,
+871,,,,-,,,
+872,,,,-,,,
+873,,,,-,,,
+874,,,,-,,,
+875,,,,-,,,
+876,,,,-,,,
+877,,,,-,,,
+878,,,,-,,,
+879,,,,-,,,
+880,,,,-,,,
+881,,,,-,,,
+882,,,,-,,,
+883,,,,-,,,
+884,,,,-,,,
+885,,,,-,,,
+886,,,,-,,,
+887,,,,-,,,
+888,,,,-,,,
+889,,,,-,,,
+890,,,,-,,,
+891,,,,-,,,
+892,,,,-,,,
+893,,,,-,,,
+894,,,,-,,,
+895,,,,-,,,
+896,,,,-,,,
+897,,,,-,,,
+898,,,,-,,,
+899,,,,-,,,
+900,,,,-,,,
+901,,,,-,,,
+902,,,,-,,,
+903,,,,-,,,
+904,,,,-,,,
+905,,,,-,,,
+906,,,,-,,,
+907,,,,-,,,
+908,,,,-,,,
+909,,,,-,,,
+910,,,,-,,,
+911,,,,-,,,
+912,,,,-,,,
+913,,,,-,,,
+914,,,,-,,,
+915,,,,-,,,
+916,,,,-,,,
+917,,,,-,,,
+918,,,,-,,,
+919,,,,-,,,
+920,,,,-,,,
+921,,,,-,,,
+922,,,,-,,,
+923,,,,-,,,
+924,,,,-,,,
+925,,,,-,,,
+926,,,,-,,,
+927,,,,-,,,
+928,,,,-,,,
+929,,,,-,,,
+930,,,,-,,,
+931,,,,-,,,
+932,,,,-,,,
+933,,,,-,,,
+934,,,,-,,,
+935,,,,-,,,
+936,,,,-,,,
+937,,,,-,,,
+938,,,,-,,,
+939,,,,-,,,
+940,,,,-,,,
+941,,,,-,,,
+942,,,,-,,,
+943,,,,-,,,
+944,,,,-,,,
+945,,,,-,,,
+946,,,,-,,,
+947,,,,-,,,
+948,,,,-,,,
+949,,,,-,,,
+950,,,,-,,,
+951,,,,-,,,
+952,,,,-,,,
+953,,,,-,,,
+954,,,,-,,,
+955,,,,-,,,
+956,,,,-,,,
+957,,,,-,,,
+958,,,,-,,,
+959,,,,-,,,
+960,,,,-,,,
+961,,,,-,,,
+962,,,,-,,,
+963,,,,-,,,
+964,,,,-,,,
+965,,,,-,,,
+966,,,,-,,,
+967,,,,-,,,
+968,,,,-,,,
+969,,,,-,,,
+970,,,,-,,,
+971,,,,-,,,
+972,,,,-,,,
+973,,,,-,,,
+974,,,,-,,,
+975,,,,-,,,
+976,,,,-,,,
+977,,,,-,,,
+978,,,,-,,,
+979,,,,-,,,
+980,,,,-,,,
+981,,,,-,,,
+982,,,,-,,,
+983,,,,-,,,
+984,,,,-,,,
+985,,,,-,,,
+986,,,,-,,,
+987,,,,-,,,
+988,,,,-,,,
+989,,,,-,,,
+990,,,,-,,,
+991,,,,-,,,
+992,,,,-,,,
+993,,,,-,,,
+994,,,,-,,,
+995,,,,-,,,
+996,,,,-,,,
+997,,,,-,,,
+998,,,,-,,,
+999,,,,-,,,
+1000,,,,-,,,
+1001,,,,-,,,
+1002,,,,-,,,
+1003,,,,-,,,
+1004,,,,-,,,
+1005,,,,-,,,
+1006,,,,-,,,
+1007,,,,-,,,
+1008,,,,-,,,
+1009,,,,-,,,
+1010,,,,-,,,
+1011,,,,-,,,
+1012,,,,-,,,
+1013,,,,-,,,
+1014,,,,-,,,

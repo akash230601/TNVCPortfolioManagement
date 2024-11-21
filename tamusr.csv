@@ -1,0 +1,40 @@
+tamusr_id,company_id,company,tamu_dept,contract_value,original_data_company,original_data_tamu_department
+1,5,ECM Technologies,HSC,6575.15,"ECM Technologies, LLC",TAMHSC-Ibt-Ctr For Infect & Inflam Diseases
+2,5,ECM Technologies,TEES,36779.0,"ECM Technologies, LLC",TEES-Nat Center For Therapeutics Manufac
+3,5,ECM Technologies,HSC,18000.0,"ECM Technologies, LLC",TAMHSC-Institute For Biosciences & Technology-D
+4,5,ECM Technologies,TEES,16000.0,"ECM Technologies, LLC",TEES-Biomedical Engineering
+5,10,Sano Chemicals,Biology,97304.0,"Sano Chemicals, Inc.",TAMU-Biology
+6,10,Sano Chemicals,Biology,13520.0,"Sano Chemicals, Inc.",TAMU-Biology
+7,10,Sano Chemicals,Biology,16909.0,"Sano Chemicals, Inc.",TAMU-Biology
+8,10,Sano Chemicals,Biology,1099415.0,"Sano Chemicals, Inc.",TAMU-Biology
+9,10,Sano Chemicals,Biology,214242.0,"Sano Chemicals, Inc.",TAMU-Biology
+10,10,Sano Chemicals,Biology,81280.0,"Sano Chemicals, Inc.",TAMU-Biology
+11,15,Thermal Expansion Solutions (Allvar),TEES,50000.0,"Thermal Expansion Solutions, Inc.",TEES-Materials Science And Engineering
+12,15,Thermal Expansion Solutions (Allvar),TEES,131072.0,"Thermal Expansion Solutions, Inc.",TEES-Materials Science And Engineering
+13,15,Thermal Expansion Solutions (Allvar),TEES,29999.0,"Thermal Expansion Solutions, Inc.",TEES-Materials Science And Engineering
+14,18,Voyager Biomedical (Scepter Medical Devices),PVAM,39641.72,"Voyager Biomedical, Inc.",PVAMU-Mechanical Engineering
+15,18,Voyager Biomedical (Scepter Medical Devices),Veterinary,13847.0,"Voyager Biomedical, Inc.",TAMU-Vet - Pathobiology
+16,18,Voyager Biomedical (Scepter Medical Devices),TIPS,2533.0,"Voyager Biomedical, Inc.",TAMU-Texas Institute For Preclinical Studies
+17,18,Voyager Biomedical (Scepter Medical Devices),TIPS,9434.0,"Voyager Biomedical, Inc.",TAMU-Texas Institute For Preclinical Studies
+18,49,Slipstream Wind,TEES,30000.0,Slipstream Wind,TEES-Aerospace Engineering
+19,61,SABER Corportation,TEES,53660.0,Saber Corporation,TEES-Biomedical Engineering
+20,61,SABER Corportation,TEES,19867.0,Saber Corporation,TEES-Biomedical Engineering
+21,69,Bezoar Laborartories,TEES,3600.0,Bezoar Laboratories LLC,TEES-Process Engineering R&D Center
+22,84,Teysha Technologies,Chemistry,208018.0,Teysha Technologies Limited,TAMU-Chemistry
+23,84,Teysha Technologies,Chemistry,126451.0,Teysha Technologies Limited,TAMU-Chemistry
+24,84,Teysha Technologies,Chemistry,208018.0,Teysha Technologies Limited,TAMU-Chemistry
+25,84,Teysha Technologies,Chemistry,126451.0,Teysha Technologies Limited,TAMU-Chemistry
+26,89,Bondwell Technologies,HSC,33190.0,"Bondwell Technologies, Inc.",TAMHSC-Molecular And Cellular Medicine
+27,89,Bondwell Technologies,HSC,77312.0,"Bondwell Technologies, Inc.",TAMHSC-Molecular And Cellular Medicine
+28,108,EmGenisys,West Texas A&M,10000.0,Emgenisys,
+29,108,EmGenisys,TAMU BMEN,500.0,Emgenisys,
+30,108,EmGenisys,Texas A&M Reproductive Servics Lab,2000.0,Emgenisys,
+31,89,Bondwell Technologies,HSC,368998.0,"Bondwell Technologies, Inc.",TAMHSC-Molecular And Cellular Medicine
+32,74,Harmony Aeronautics,TEES,45698.0,Harmony Aeronautics,TEES
+33,74,Harmony Aeronautics,TEES,225067.0,Harmony Aeronautics,TEES
+34,109,HelioWave Technologies,TEES,75000.0,HelioWave Technologies,TEES
+35,109,HelioWave Technologies,TEES,400000.0,HelioWave Technologies,TEES
+36,15,Thermal Expansion Solutions (Allvar),TEES,50000.0,"Thermal Expansion Solutions, Inc.",TEES-Materials Science And Engineering
+37,15,Thermal Expansion Solutions (Allvar),TEES,131072.0,"Thermal Expansion Solutions, Inc.",TEES-Materials Science And Engineering
+38,84,Teysha Technologies,Chemistry,229666.0,Teysha Technologies Limited,TAMU-Chemistry
+39,89,Bondwell Technologies,HSC,42811.0,"Bondwell Technologies, Inc.",TAMHSC-Molecular And Cellular Medicine
